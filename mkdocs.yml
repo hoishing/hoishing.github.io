@@ -55,9 +55,6 @@ markdown_extensions:
 
 nav:
   - Overview: index.md
-  - Python Packages:
-    - pypable: proj/pipable.md
-    - kTemplate: proj/ktemplate.md
   - Mobile Apps:
     - ZERO: proj/zero-game.md
     - Video Compressor ↗: https://apps.apple.com/hk/app/video-compressor/id482465886
@@ -70,6 +67,9 @@ nav:
     - Mini Authenticator: proj/mini-authenticator.md
     - Multilingual Voice Search: proj/multilingual-voice-search.md
     - Chrome ext creation template: proj/template-chrome-ext.md
+  - Python Packages:
+    - pypable: proj/pipable.md
+    - kTemplate: proj/ktemplate.md
   - NPM Packages:
     - TOTP Generator: proj/totp-auth.md
   - Utilities:
