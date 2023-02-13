@@ -52,6 +52,8 @@ markdown_extensions:
   - pymdownx.inlinehilite
   - pymdownx.superfences
   - pymdownx.snippets
+  - toc:
+      toc_depth: 3
 
 nav:
   - Overview: index.md
@@ -74,7 +76,7 @@ nav:
     - TOTP Generator: proj/totp-auth.md
   - Utilities:
     - Icon Resize CLI: proj/icon-resize-cli.md
-    - Personalize CangJie IME: proj/cangjie.md
+    - CangJie IME: proj/cangjie.md
     - Selenium Crawler: proj/selenium-crawler.md
     - Google Playbook Annotations to MD: proj/playbook2md.md
     - Raycast Scripts: proj/raycast-scripts.md
@@ -84,4 +86,11 @@ nav:
     - GData iOS Static lib: proj/gdata-static-lib.md
     - 認識佛教 iOS Apps: proj/buddhism-objc.md
     - Ruby Static Site Generator: proj/ruby-SSG.md
-
+  - Blog:
+    - Auto Format Svelte In Vscode: blog/2020-12-14-auto-format-svelte-in-vscode.md
+    - 打造你專屬的倉頡輸入法: blog/2020-10-27-cangjie.md
+    - Using Chinese Characters in Matplotlib: blog/2019-04-21-Using Chinese Characters in Matplotlib.md
+    - Using Javascript with WKWebView: blog/2017-12-29-Using Javascript with WKWebView.md
+    - Adding Login Items for macOS: blog/2017-12-15-Adding Login Items for macOS.md
+    - Create Menu Bar Apps On macOS: blog/2017-10-10-Create Menu Bar Apps On macOS.md
+    - Providing Services On macOS: blog/2017-08-12-Providing Services On macOS.md
