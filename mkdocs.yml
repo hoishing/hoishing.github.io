@@ -72,10 +72,10 @@ nav:
   - Python Packages:
     - pypable: proj/pipable.md
     - kTemplate: proj/ktemplate.md
+    - Icon Resize CLI: proj/icon-resize-cli.md
   - NPM Packages:
     - TOTP Generator: proj/totp-auth.md
   - Utilities:
-    - Icon Resize CLI: proj/icon-resize-cli.md
     - CangJie IME: proj/cangjie.md
     - Selenium Crawler: proj/selenium-crawler.md
     - Google Playbook Annotations to MD: proj/playbook2md.md
