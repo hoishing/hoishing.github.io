@@ -1,6 +1,7 @@
 site_name: Kelvin's Profile
 
-repo_url: https://github.com/hoishing.github.io
+site_url: https://hoishing.github.io
+repo_url: https://github.com/hoishing/hoishing.github.io
 extra_css:
   - stylesheets/extra.css
 
