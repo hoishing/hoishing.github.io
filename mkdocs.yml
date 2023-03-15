@@ -71,7 +71,7 @@ nav:
     - Multilingual Voice Search: proj/multilingual-voice-search.md
     - Chrome ext creation template: proj/template-chrome-ext.md
   - Python Packages:
-    - pypable: proj/pipable.md
+    - pipable: proj/pipable.md
     - kTemplate: proj/ktemplate.md
     - Icon Resize CLI: proj/icon-resize-cli.md
   - NPM Packages:
