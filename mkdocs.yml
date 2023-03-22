@@ -11,7 +11,7 @@ theme:
     text: Varela Round
   icon:
     repo: fontawesome/brands/github
-  favicon: assets/rocket-launch.svg
+  favicon: assets/rocket-favicon.svg
   logo: assets/rocket-launch.svg
   palette:
     # Palette toggle for dark mode
