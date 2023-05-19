@@ -86,7 +86,6 @@ nav:
     - Markdown to Dash Docset: proj/md2html_dash.md
     - GData iOS Static lib: proj/gdata-static-lib.md
     - 認識佛教 iOS Apps: proj/buddhism-objc.md
-    - Ruby Static Site Generator: proj/ruby-SSG.md
   - Blog:
     - Auto Format Svelte In Vscode: blog/2020-12-14-auto-format-svelte-in-vscode.md
     - 打造你專屬的倉頡輸入法: blog/2020-10-27-cangjie.md
