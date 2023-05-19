@@ -79,7 +79,6 @@ nav:
   - Utilities:
     - CangJie IME: proj/cangjie.md
     - Selenium Crawler: proj/selenium-crawler.md
-    - Google Playbook Annotations to MD: proj/playbook2md.md
     - Raycast Scripts: proj/raycast-scripts.md
   - Legacy Projects:
     - Atom Cell Navigation: proj/cell-navigation.md
