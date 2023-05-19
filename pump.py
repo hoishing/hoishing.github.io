@@ -1,11 +1,9 @@
 """Version Pump Automation
 
 - update pyproject.toml
-- run pytest and doctest
-- generate coverage report and github badges
-- update changelog
+- clean build mkdocs
+- deploy mkdocs
 - create new github commit, tag and release
-- publish new version to PyPi
 
 Examples:
     - dry run
@@ -72,9 +70,9 @@ def main(section, tag, publish, msg):
         # publish to pypi, update github release, commit changelog
         if publish:
             cmds = [
+                "mkdocs build -c",  # clean build
+                "mkdocs gh-deploy",  # deploy docs
                 "git push --tag",
-                # create html report for docs
-                # commit docs and changelog Δ
                 f'git add . && git cm -am "{msg}" && git push',
             ]
 
