@@ -51,7 +51,7 @@ The outcome of this effort can be seen on this website, showcasing my work and i
 
 | app                       |           lang / run           | description                                                          |
 |:------------------------- |:------------------------------:|:-------------------------------------------------------------------- |
-| [Documents to Text]       | [![colab-logo]][doc2txt-colab] | extract text from epub, pdf and docx                                 |
+| [doc2txt]                 | [![colab-logo]][doc2txt-colab] | extract text from epub, pdf and docx                                 |
 | [Personalize CangJie IME] |   [![binder]][cangjie-ipynb]   | generate custom char set for 倉頡 IME in Windows                     |
 | [Selenium Crawler]        |  [![binder]][selenium-ipynb]   | web crawler by [Selenium], captcha resolved by [Tesseract OCR]       |
 | [Raycast Scripts]         |            ![bash]             | quickly open current Finder directory in specific app with [Raycast] |
@@ -124,4 +124,4 @@ The outcome of this effort can be seen on this website, showcasing my work and i
 [selenium-ipynb]: https://mybinder.org/v2/gh/hoishing/selenium-crawler/HEAD?labpath=selenium-crawler.ipynb
 [colab-logo]: https://colab.research.google.com/assets/colab-badge.svg
 [doc2txt-colab]: https://colab.research.google.com/github/hoishing/doc2txt/blob/main/doc2txt.ipynb
-[Documents to Text]: https://github.com/hoishing/doc2txt
+[doc2txt]: https://github.com/hoishing/doc2txt
