@@ -49,11 +49,12 @@ The outcome of this effort can be seen on this website, showcasing my work and i
 
 ## Utilities
 
-| app                                 |         lang / run          | description                                                                 |
-|:----------------------------------- |:---------------------------:|:--------------------------------------------------------------------------- |
-| [Personalize CangJie IME]           | [![binder]][cangjie-ipynb]  | generate custom char set for 倉頡 IME in Windows                            |
-| [Selenium Crawler]                  | [![binder]][selenium-ipynb] | web crawler by [Selenium], captcha resolved by [Tesseract OCR]              |
-| [Raycast Scripts]                   |           ![bash]           | quickly open current Finder directory in specific app with [Raycast]        |
+| app                       |           lang / run           | description                                                          |
+|:------------------------- |:------------------------------:|:-------------------------------------------------------------------- |
+| [Documents to Text]       | [![colab-logo]][doc2txt-colab] | extract text from epub, pdf and docx                                 |
+| [Personalize CangJie IME] |   [![binder]][cangjie-ipynb]   | generate custom char set for 倉頡 IME in Windows                     |
+| [Selenium Crawler]        |  [![binder]][selenium-ipynb]   | web crawler by [Selenium], captcha resolved by [Tesseract OCR]       |
+| [Raycast Scripts]         |            ![bash]             | quickly open current Finder directory in specific app with [Raycast] |
 
 ## Legacy Projects
 
@@ -106,7 +107,6 @@ The outcome of this effort can be seen on this website, showcasing my work and i
 [pwa]: https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps
 [Speech Recognition]: https://hoishing.github.io/speech-recog
 [git-logo]: https://api.iconify.design/bi/github.svg?color=%236FD886&width=20
-<!-- [git-logo-grey]: https://api.iconify.design/bi/github.svg?color=%23949494&width=20 -->
 [Tesseract OCR]: https://github.com/madmaze/pytesseract
 [selenium]: https://selenium-python.readthedocs.io
 [Selenium Crawler]: https://github.com/hoishing/selenium-crawler
@@ -122,3 +122,6 @@ The outcome of this effort can be seen on this website, showcasing my work and i
 [pipable]: https://pypi.org/project/pipable
 [pipable-git]: https://github.com/hoishing/pipable
 [selenium-ipynb]: https://mybinder.org/v2/gh/hoishing/selenium-crawler/HEAD?labpath=selenium-crawler.ipynb
+[colab-logo]: https://colab.research.google.com/assets/colab-badge.svg
+[doc2txt-colab]: https://colab.research.google.com/github/hoishing/doc2txt/blob/main/doc2txt.ipynb
+[Documents to Text]: https://github.com/hoishing/doc2txt
