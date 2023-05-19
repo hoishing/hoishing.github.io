@@ -78,6 +78,7 @@ nav:
     - TOTP Generator: proj/totp-auth.md
   - Utilities:
     - doc2txt: proj/doc2txt.md
+    - Playwright Crawler: proj/playwright-crawler.md
     - CangJie IME: proj/cangjie.md
     - Selenium Crawler: proj/selenium-crawler.md
     - Raycast Scripts: proj/raycast-scripts.md

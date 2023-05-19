@@ -4,7 +4,7 @@ build-backend = "poetry.core.masonry.api"
 
 [tool.poetry]
 name = "hoishing-github-io"
-version = "0.4.7"
+version = "0.5.0"
 description = "Kelvin's Personal Website"
 authors = [ "Kelvin Ng <hoishing@gmail.com>",]
 readme = "README.md"

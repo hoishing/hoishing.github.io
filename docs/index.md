@@ -11,7 +11,7 @@ The outcome of this effort can be seen on this website, showcasing my work and i
 - see all recent published iOS / macOS app [here][iOS apps]
 
 | app                |   lang   | platform    | category      |           repo           |
-|:------------------ |:--------:| ----------- | ------------- |:------------------------:|
+| :----------------- | :------: | ----------- | ------------- | :----------------------: |
 | [ZERO]             | ![swift] | iOS + macOS | strategy game | [![git-logo]][zero-game] |
 | [Video Compressor] | ![swift] | iOS         | utility       |                          |
 | [Easy Dictionary]  | ![swift] | iOS + macOS | education     |                          |
@@ -21,22 +21,22 @@ The outcome of this effort can be seen on this website, showcasing my work and i
 ## Web Apps
 
 | app                  |           tech stack           | description                                                          |            repo            |
-|:-------------------- |:------------------------------:|:-------------------------------------------------------------------- |:--------------------------:|
+| :------------------- | :----------------------------: | :------------------------------------------------------------------- | :------------------------: |
 | [Speech Recognition] | [PWA] + [Alpine.js] + [UnoCSS] | quick and easy speech synthesis PWA powered by Google Web Speech API | [![git-logo]][voice-recog] |
 
 ## Chrome Extensions
 
-| extension                      | lang  | description                                                                    |                    repo                     |
-|:------------------------------ |:-----:|:------------------------------------------------------------------------------ |:-------------------------------------------:|
-| [Mini Authenticator]           | ![ts] | minimal 2FA authenticator that never store your secret keys                    |          [![git-logo]][mini-auth]           |
-| [Multilingual Voice Search]    | ![js] | Google voice search in languages different from your OS and location settings  |       [![git-logo]][voice-search-crx]       |
+| extension                   | lang  | description                                                                   |              repo               |
+| :-------------------------- | :---: | :---------------------------------------------------------------------------- | :-----------------------------: |
+| [Mini Authenticator]        | ![ts] | minimal 2FA authenticator that never store your secret keys                   |    [![git-logo]][mini-auth]     |
+| [Multilingual Voice Search] | ![js] | Google voice search in languages different from your OS and location settings | [![git-logo]][voice-search-crx] |
 
 ## Python Packages
 
 - well documented and tested python packages published to PyPi
 
 | package           | lang  | description                                    |              repo              |
-|:----------------- |:-----:|:---------------------------------------------- |:------------------------------:|
+| :---------------- | :---: | :--------------------------------------------- | :----------------------------: |
 | [Pipable]         | ![py] | pipe operation in python                       |   [![git-logo]][pipable-git]   |
 | [kTemplate]       | ![py] | a minimalist python html template              |  [![git-logo]][ktemplate-git]  |
 | [Icon Resize CLI] | ![py] | CLI to create lossless icons in multiple sizes | [![git-logo]][icon-resize-git] |
@@ -44,26 +44,27 @@ The outcome of this effort can be seen on this website, showcasing my work and i
 ## NPM Packages
 
 | packages         | lang  | description                            |           repo           |
-|:---------------- |:-----:|:-------------------------------------- |:------------------------:|
+| :--------------- | :---: | :------------------------------------- | :----------------------: |
 | [TOTP Generator] | ![ts] | time-based one-time-password generator | [![git-logo]][totp-auth] |
 
 ## Utilities
 
-| app                       |           lang / run           | description                                                          |
-|:------------------------- |:------------------------------:|:-------------------------------------------------------------------- |
-| [doc2txt]                 | [![colab-logo]][doc2txt-colab] | extract text from epub, pdf and docx                                 |
-| [Personalize CangJie IME] |   [![binder]][cangjie-ipynb]   | generate custom char set for 倉頡 IME in Windows                     |
-| [Selenium Crawler]        |  [![binder]][selenium-ipynb]   | web crawler by [Selenium], captcha resolved by [Tesseract OCR]       |
-| [Raycast Scripts]         |            ![bash]             | quickly open current Finder directory in specific app with [Raycast] |
+| app                       |            lang / run             | description                                                          |
+| :------------------------ | :-------------------------------: | :------------------------------------------------------------------- |
+| [doc2txt]                 |  [![colab-logo]][doc2txt-colab]   | extract text from epub, pdf and docx                                 |
+| [Playwright Crawler]      | [![colab-logo]][playwright-colab] | extract text from epub, pdf and docx                                 |
+| [Personalize CangJie IME] |    [![binder]][cangjie-ipynb]     | generate custom char set for 倉頡 IME in Windows                     |
+| [Selenium Crawler]        |    [![binder]][selenium-ipynb]    | web crawler by [Selenium], captcha resolved by [Tesseract OCR]       |
+| [Raycast Scripts]         |              ![bash]              | quickly open current Finder directory in specific app with [Raycast] |
 
 ## Legacy Projects
 
-| project                           |                lang                 | description                                                          |
-|:--------------------------------- |:-----------------------------------:|:-------------------------------------------------------------------- |
-| [Atom Cell Navigation]            |          ![coffee-script]           | Atom editor extension for fast navigating between jupyter cells      |
-| [Markdown to Dash Docset]         |                ![py]                | convert md to HTML files that can be used for generating Dash docset |
-| [GData iOS Static lib]            |                obj-c                | iOS static library of Google Data APIs                               |
-| [認識佛教 iOS app][buddhism-objc] |                obj-c                | 認識佛教 audio book player for iOS < v10                             |
+| project                           |       lang       | description                                                          |
+| :-------------------------------- | :--------------: | :------------------------------------------------------------------- |
+| [Atom Cell Navigation]            | ![coffee-script] | Atom editor extension for fast navigating between jupyter cells      |
+| [Markdown to Dash Docset]         |      ![py]       | convert md to HTML files that can be used for generating Dash docset |
+| [GData iOS Static lib]            |      obj-c       | iOS static library of Google Data APIs                               |
+| [認識佛教 iOS app][buddhism-objc] |      obj-c       | 認識佛教 audio book player for iOS < v10                             |
 
 ## More
 
@@ -125,3 +126,5 @@ The outcome of this effort can be seen on this website, showcasing my work and i
 [colab-logo]: https://colab.research.google.com/assets/colab-badge.svg
 [doc2txt-colab]: https://colab.research.google.com/github/hoishing/doc2txt/blob/main/doc2txt.ipynb
 [doc2txt]: https://github.com/hoishing/doc2txt
+[playwright-colab]: https://colab.research.google.com/github/hoishing/playwright-crawler/blob/main/tw-reservoir.ipynb
+[Playwright Crawler]: https://github.com/hoishing/playwright-crawler
