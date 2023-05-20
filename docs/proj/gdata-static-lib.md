@@ -1,0 +1,1 @@
+../../../gdata-static-lib/README.md
