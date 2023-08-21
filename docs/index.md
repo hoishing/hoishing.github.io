@@ -14,7 +14,6 @@ The outcome of this effort can be seen on this website, showcasing my work and i
 | :----------------- | :------: | ----------- | ------------- | :----------------------: |
 | [ZERO]             | ![swift] | iOS + macOS | strategy game | [![git-logo]][zero-game] |
 | [Video Compressor] | ![swift] | iOS         | utility       |                          |
-| [Easy Dictionary]  | ![swift] | iOS + macOS | education     |                          |
 | [英漢字典]         | ![swift] | iOS         | education     |                          |
 | [同音字典]         | ![swift] | iOS + macOS | education     |                          |
 
@@ -83,7 +82,6 @@ The outcome of this effort can be seen on this website, showcasing my work and i
 [profile-icon]: https://api.iconify.design/carbon/user-profile.svg?color=%23EF476F&width=20
 [binder]: https://mybinder.org/badge_logo.svg
 [Video Compressor]: https://apps.apple.com/hk/app/video-compressor/id482465886
-[Easy Dictionary]: https://apps.apple.com/hk/app/%E8%8B%B1%E6%BC%A2%E5%AD%97%E5%85%B8-easy-dictionary/id684273271
 [英漢字典]: https://apps.apple.com/hk/app/%E8%8B%B1%E6%BC%A2%E5%AD%97%E5%85%B8-ec-dict/id371152394
 [同音字典]: https://apps.apple.com/hk/app/%E5%90%8C%E9%9F%B3%E5%AD%97%E5%85%B8/id956045098
 [ZERO]: https://apps.apple.com/hk/app/zero-tbs/id1399856976

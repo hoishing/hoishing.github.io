@@ -9,6 +9,9 @@ packages = [{include = "hoishing"}]
 [tool.poetry.dependencies]
 python = "^3.11"
 mkdocs-material = "^9.1.13"
+mkdocstrings = "^0.21.2"
+pillow = "^9.5.0"
+cairosvg = "^2.7.0"
 
 
 [build-system]
