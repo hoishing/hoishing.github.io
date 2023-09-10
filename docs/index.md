@@ -25,10 +25,11 @@ The outcome of this effort can be seen on this website, showcasing my work and i
 
 ## Chrome Extensions
 
-| extension                   | lang  | description                                                                   |              repo               |
-| :-------------------------- | :---: | :---------------------------------------------------------------------------- | :-----------------------------: |
-| [Mini Authenticator]        | ![ts] | minimal 2FA authenticator that never store your secret keys                   |    [![git-logo]][mini-auth]     |
-| [Multilingual Voice Search] | ![js] | Google voice search in languages different from your OS and location settings | [![git-logo]][voice-search-crx] |
+| extension                   | lang  | description                                                                   |                     repo                      |
+|:--------------------------- |:-----:|:----------------------------------------------------------------------------- |:---------------------------------------------:|
+| [Mini Authenticator]        | ![ts] | minimal 2FA authenticator that never store your secret keys                   |           [![git-logo]][mini-auth]            |
+| [Change Background Color]   | ![js] | Change background color of the current site                                   | [![git-logo]][chrome-change-background-color] |
+| [Multilingual Voice Search] | ![js] | Google voice search in languages different from your OS and location settings |        [![git-logo]][voice-search-crx]        |
 
 ## Python Packages
 
@@ -126,3 +127,5 @@ The outcome of this effort can be seen on this website, showcasing my work and i
 [doc2txt]: https://github.com/hoishing/doc2txt
 [playwright-colab]: https://colab.research.google.com/github/hoishing/playwright-crawler/blob/main/tw-reservoir.ipynb
 [Playwright Crawler]: https://github.com/hoishing/playwright-crawler
+[Change Background Color]: https://chrome.google.com/webstore/detail/change-background-color/ajlcblmihhjochfgehfcfiopkcbfnlfh
+[chrome-change-background-color]: https://github.com/hoishing/chrome-change-background-color

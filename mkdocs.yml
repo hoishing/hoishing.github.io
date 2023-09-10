@@ -68,6 +68,7 @@ nav:
     - Speech Recognition: proj/speech-recog.md
   - Chrome Extensions:
     - Mini Authenticator: proj/mini-authenticator.md
+    - Change Background Color: proj/chrome-change-bg.md
     - Multilingual Voice Search: proj/multilingual-voice-search.md
   - Python Packages:
     - pipable: proj/pipable.md

@@ -9,8 +9,6 @@
 </tr>
 </table>
 
-📲 Download from [app store]
-
 > audio content collection for understanding buddhism
 
 🔗 [source code](https://github.com/hoishing/buddhism-objc)
@@ -35,5 +33,4 @@ Open a [github issue] or ping me on [Twitter ![twitter-icon]][Twitter]
 [github issue]: https://github.com/hoishing/buddhism-objc/issues
 [Twitter]: https://twitter.com/intent/tweet?text=https://github.com/hoishing/buddhism-objc/%20%0D@hoishing
 [twitter-icon]: https://api.iconify.design/logos/twitter.svg?width=20
-[app store]: https://apps.apple.com/hk/app/id389971161
 [internet archive]: https://archive.org/details/@hoishing?and[]=subject%3A%22%E4%BD%9B%E6%95%99%22

@@ -1,10 +1,8 @@
 # Playwright Crawler Examples
 
-> web scrapping example using [Playwright](https://playwright.dev/python/)
+[![colab-logo]][tw-reservoir] ![MIT]
 
-| file               |              run              | description              |
-| ------------------ | :---------------------------: | ------------------------ |
-| tw-reservoir.ipynb | [![colab-logo]][tw-reservoir] | Taiwan reservoir storage |
+> web scrapping of Taiwan reservoir storage using [Playwright](https://playwright.dev/python/)
 
 ## motivation
 
@@ -12,6 +10,11 @@ After three consecutive years of drought, most of Taiwan's reservoirs have nearl
 
 🔗 [source code]
 
+| file               |              run              | description              |
+| ------------------ | :---------------------------: | ------------------------ |
+| tw-reservoir.ipynb | [![colab-logo]][tw-reservoir] | Taiwan reservoir storage |
+
 [colab-logo]: https://colab.research.google.com/assets/colab-badge.svg
 [tw-reservoir]: https://colab.research.google.com/github/hoishing/playwright-crawler/blob/main/tw-reservoir.ipynb
 [source code]: https://github.com/hoishing/playwright-crawler
+[MIT]: https://img.shields.io/github/license/hoishing/playwright-crawler
