@@ -1,4 +1,4 @@
-# 👋 Hi~ Kelvin's Speaking
+# Work Out Loud 🔊
 
 While wandering in a bookstore one day, I stumbled upon a book recommended by Taiwan's IT Minister, [Audrey Tang], which advocated for a work method known as [work out loud].
 
