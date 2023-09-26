@@ -88,6 +88,7 @@ nav:
     - GData iOS Static lib: proj/gdata-static-lib.md
     - 認識佛教 iOS Apps: proj/buddhism-objc.md
   - Blog:
+    - AVSpeechSynthesisVoice Fall Back Mechanism: blog/2023-09-26-AVSpeechSynthesisVoice Fall Back Mechanism.md
     - Auto Format Svelte In Vscode: blog/2020-12-14-auto-format-svelte-in-vscode.md
     - 打造你專屬的倉頡輸入法: blog/2020-10-27-cangjie.md
     - Using Chinese Characters in Matplotlib: blog/2019-04-21-Using Chinese Characters in Matplotlib.md
