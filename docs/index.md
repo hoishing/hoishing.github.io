@@ -26,7 +26,7 @@ The outcome of this effort can be seen on this website, showcasing my work and i
 ## Chrome Extensions
 
 | extension                   | lang  | description                                                                   |                     repo                      |
-|:--------------------------- |:-----:|:----------------------------------------------------------------------------- |:---------------------------------------------:|
+| :-------------------------- | :---: | :---------------------------------------------------------------------------- | :-------------------------------------------: |
 | [Mini Authenticator]        | ![ts] | minimal 2FA authenticator that never store your secret keys                   |           [![git-logo]][mini-auth]            |
 | [Change Background Color]   | ![js] | Change background color of the current site                                   | [![git-logo]][chrome-change-background-color] |
 | [Multilingual Voice Search] | ![js] | Google voice search in languages different from your OS and location settings |        [![git-logo]][voice-search-crx]        |
@@ -52,7 +52,7 @@ The outcome of this effort can be seen on this website, showcasing my work and i
 | app                       |            lang / run             | description                                                          |
 | :------------------------ | :-------------------------------: | :------------------------------------------------------------------- |
 | [doc2txt]                 |  [![colab-logo]][doc2txt-colab]   | extract text from epub, pdf and docx                                 |
-| [Playwright Crawler]      | [![colab-logo]][playwright-colab] | extract text from epub, pdf and docx                                 |
+| [Playwright Crawler]      | [![colab-logo]][playwright-colab] | web scrapping of Taiwan reservoir storage                            |
 | [Personalize CangJie IME] |    [![binder]][cangjie-ipynb]     | generate custom char set for 倉頡 IME in Windows                     |
 | [Selenium Crawler]        |    [![binder]][selenium-ipynb]    | web crawler by [Selenium], captcha resolved by [Tesseract OCR]       |
 | [Raycast Scripts]         |              ![bash]              | quickly open current Finder directory in specific app with [Raycast] |
