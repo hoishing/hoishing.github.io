@@ -49,12 +49,12 @@ The outcome of this effort can be seen on this website, showcasing my work and i
 
 ## Utilities
 
-| app                       |            lang / run             | description                                                          |
-| :------------------------ | :-------------------------------: | :------------------------------------------------------------------- |
-| [doc2txt]                 |  [![colab-logo]][doc2txt-colab]   | extract text from epub, pdf and docx                                 |
-| [Playwright Crawler]      | [![colab-logo]][playwright-colab] | web scrapping of Taiwan reservoir storage                            |
-| [Personalize CangJie IME] |    [![binder]][cangjie-ipynb]     | generate custom char set for 倉頡 IME in Windows                     |
-| [Selenium Crawler]        |    [![binder]][selenium-ipynb]    | web crawler by [Selenium], captcha resolved by [Tesseract OCR]       |
+| app                       |            lang / run             | description                                                            |
+| :------------------------ | :-------------------------------: | :--------------------------------------------------------------------- |
+| [doc2txt]                 |  [![colab-logo]][doc2txt-colab]   | extract text from epub, pdf and docx                                   |
+| [Playwright Crawler]      | [![colab-logo]][playwright-colab] | web scrapping of Taiwan reservoir storage                              |
+| [Personalize CangJie IME] |    [![binder]][cangjie-ipynb]     | generate custom char set for 倉頡 IME in Windows                       |
+| [Selenium Crawler]        |    [![binder]][selenium-ipynb]    | web crawler by [Selenium], captcha resolved by [Tesseract OCR]         |
 | [Raycast Scripts]         |              ![bash]              | `wepb` converter, quick open vscode/terminal in current folder ... etc |
 
 ## Legacy Projects
