@@ -55,7 +55,7 @@ The outcome of this effort can be seen on this website, showcasing my work and i
 | [Playwright Crawler]      | [![colab-logo]][playwright-colab] | web scrapping of Taiwan reservoir storage                            |
 | [Personalize CangJie IME] |    [![binder]][cangjie-ipynb]     | generate custom char set for 倉頡 IME in Windows                     |
 | [Selenium Crawler]        |    [![binder]][selenium-ipynb]    | web crawler by [Selenium], captcha resolved by [Tesseract OCR]       |
-| [Raycast Scripts]         |              ![bash]              | quickly open current Finder directory in specific app with [Raycast] |
+| [Raycast Scripts]         |              ![bash]              | `wepb` converter, quick open vscode/terminal in current folder ... etc |
 
 ## Legacy Projects
 
@@ -113,8 +113,7 @@ The outcome of this effort can be seen on this website, showcasing my work and i
 [voice-search-crx]: https://github.com/hoishing/multilingual-voice-search
 [Multilingual Voice Search]: https://chrome.google.com/webstore/detail/multilingual-voice-search/ecfkiahgkikgihfhkmpggilephnaaidm
 [Mini Authenticator]: https://chrome.google.com/webstore/detail/mini-authenticator/nmhjblhloefhbhgbfkdgdpjabaocnhha
-[Raycast Scripts]: https://github.com/hoishing/raycast-scripts
-[raycast]: https://www.raycast.com
+[Raycast Scripts]: https://gist.github.com/hoishing/40baa11323ed08ef584c5dbb47543997
 [Audrey Tang]: https://zh.wikipedia.org/zh-tw/%E5%94%90%E9%B3%B3
 [work out loud]: https://youtu.be/XpjNl3Z10uc
 [kTemplate]: https://pypi.org/project/ktemplate/
