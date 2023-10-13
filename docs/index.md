@@ -53,9 +53,9 @@ The outcome of this effort can be seen on this website, showcasing my work and i
 | :------------------------ | :-------------------------------: | :--------------------------------------------------------------------- |
 | [doc2txt]                 |  [![colab-logo]][doc2txt-colab]   | extract text from epub, pdf and docx                                   |
 | [Playwright Crawler]      | [![colab-logo]][playwright-colab] | web scrapping of Taiwan reservoir storage                              |
+| [Raycast Scripts]         |              ![bash]              | [WebP] converter, quick open vscode/terminal in current folder ... etc |
 | [Personalize CangJie IME] |    [![binder]][cangjie-ipynb]     | generate custom char set for 倉頡 IME in Windows                       |
 | [Selenium Crawler]        |    [![binder]][selenium-ipynb]    | web crawler by [Selenium], captcha resolved by [Tesseract OCR]         |
-| [Raycast Scripts]         |              ![bash]              | `wepb` converter, quick open vscode/terminal in current folder ... etc |
 
 ## Legacy Projects
 
@@ -69,9 +69,12 @@ The outcome of this effort can be seen on this website, showcasing my work and i
 ## More
 
 - [ping me on twitter ![twitter]][tw-shing]
-- [my portfolio ![profile-icon]][profile]
-- [open source projects ![git-logo]][github]
+- [my profile site ![profile-icon]][profile]
+- [open source repos ![git-logo]][github]
+- [LinkedIn ![LinkedIn-logo]][LinkedIn]
 
+[LinkedIn-logo]: https://api.iconify.design/devicon/linkedin.svg?width=20
+[LinkedIn]: https://www.linkedin.com/in/hoishing
 [github]: https://github.com/hoishing
 [py]: https://api.iconify.design/logos/python.svg?width=20
 [js]: https://api.iconify.design/logos/javascript.svg?width=20
@@ -128,3 +131,4 @@ The outcome of this effort can be seen on this website, showcasing my work and i
 [Playwright Crawler]: https://github.com/hoishing/playwright-crawler
 [Change Background Color]: https://chrome.google.com/webstore/detail/change-background-color/ajlcblmihhjochfgehfcfiopkcbfnlfh
 [chrome-change-background-color]: https://github.com/hoishing/chrome-change-background-color
+[WebP]: https://en.wikipedia.org/wiki/WebP

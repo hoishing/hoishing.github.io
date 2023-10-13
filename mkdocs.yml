@@ -79,9 +79,9 @@ nav:
   - Utilities:
     - doc2txt: proj/doc2txt.md
     - Playwright Crawler: proj/playwright-crawler.md
+    - Raycast Scripts: proj/raycast-scripts.md
     - CangJie IME: proj/cangjie.md
     - Selenium Crawler: proj/selenium-crawler.md
-    - Raycast Scripts: proj/raycast-scripts.md
   - Legacy Projects:
     - Atom Cell Navigation: proj/cell-navigation.md
     - Markdown to Dash Docset: proj/md2html_dash.md

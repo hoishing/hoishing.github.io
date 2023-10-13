@@ -35,4 +35,4 @@ Put the scrips and image files in Raycast's Script Command folder.
 [lang]: https://img.shields.io/badge/lang-bash%20%7C%20applescript-black
 [webp]: https://en.wikipedia.org/wiki/WebP
 [blog post]: https://dev.to/hoishing/convert-images-to-webp-with-raycast-2pln
-[source code] https://gist.github.com/hoishing/40baa11323ed08ef584c5dbb47543997
+[source code]: https://gist.github.com/hoishing/40baa11323ed08ef584c5dbb47543997
