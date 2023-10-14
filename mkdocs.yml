@@ -30,9 +30,21 @@ theme:
 
   features:
     - navigation.instant
+    # - navigation.footer
     # - navigation.tracking
     # - navigation.expand
     # - toc.integrate
+
+extra:
+  social:
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/hoishing
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/hoishing
+    - icon: fontawesome/brands/github
+      link: https://github.com/hoishing
+    - icon: fontawesome/brands/dev
+      link: https://dev.to/hoishing
 
 plugins:
   - social
@@ -88,7 +100,7 @@ nav:
     - GData iOS Static lib: proj/gdata-static-lib.md
     - 認識佛教 iOS Apps: proj/buddhism-objc.md
   - Blogs:
-    - AVSpeechSynthesisVoice Fall Back Mechanism ↗: https://dev.to/hoishing/avspeechsynthesisvoice-fall-back-mechanism-5f3f
+    - Latest @ DEV.TO ↗: https://dev.to/hoishing
     - Auto Format Svelte In Vscode: blog/2020-12-14-auto-format-svelte-in-vscode.md
     - 打造你專屬的倉頡輸入法: blog/2020-10-27-cangjie.md
     - Using Chinese Characters in Matplotlib: blog/2019-04-21-Using Chinese Characters in Matplotlib.md

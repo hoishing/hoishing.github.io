@@ -70,6 +70,7 @@ The outcome of this effort can be seen on this website, showcasing my work and i
 
 - [ping me on twitter ![twitter]][tw-shing]
 - [my profile site ![profile-icon]][profile]
+- [tech blogs ![dev-logo]][dev.to]
 - [open source repos ![git-logo]][github]
 - [LinkedIn ![LinkedIn-logo]][LinkedIn]
 
@@ -132,3 +133,5 @@ The outcome of this effort can be seen on this website, showcasing my work and i
 [Change Background Color]: https://chrome.google.com/webstore/detail/change-background-color/ajlcblmihhjochfgehfcfiopkcbfnlfh
 [chrome-change-background-color]: https://github.com/hoishing/chrome-change-background-color
 [WebP]: https://en.wikipedia.org/wiki/WebP
+[dev.to]: https://dev.to/hoishing
+[dev-logo]: https://api.iconify.design/bxl:dev-to.svg?color=%233ca8fb&width=20
