@@ -4,10 +4,10 @@ version = "0.1.0"
 description = ""
 authors = ["Kelvin Ng <hoishing@gmail.com>"]
 readme = "README.md"
-packages = [{include = "hoishing"}]
+packages = [{ include = "hoishing" }]
 
 [tool.poetry.dependencies]
-python = "^3.11"
+python = "^3.11, <3.12"
 mkdocs-material = "^9.1.13"
 mkdocstrings = "^0.21.2"
 pillow = "^9.5.0"

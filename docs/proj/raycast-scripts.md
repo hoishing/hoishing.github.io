@@ -2,20 +2,23 @@
 
 ![lang] ![mit]
 
-This repo contain scripts for [Raycast]
+> Scripts for automating my daily tasks
 
-| script file                 | description                                                              |
-| --------------------------- | ------------------------------------------------------------------------ |
-| `jpg.sh`                    | convert selected images in Finder to jpg using macOS built-in `sips`     |
-| `png.sh`                    | convert images to png using `sips`, then compress with [pngquant]        |
-| `webp.sh`                   | convert selected images in Finder to [webp] with [cwebp]                 |
-| `avif.sh`                   | convert selected images in Finder to [avif] using `avifenc` in [libavif] |
-| `open-download.sh`          | quickly open download folders from anywhere                              |
-| `vscode-here.applescript`   | open current Finder folder in VSCode                                     |
-| `terminal-here.applescript` | open current Finder folder in Terminal                                   |
-| `espanso-config.sh`         | open [espanso] config folder in VSCode                                   |
+[Raycast] support python, bash and apple scripts.
 
-- [blog post] about the coding logic of `webp.sh`
+I wrote a [blog post] explain the logic of the webp converting in bash + apple script.
+
+Here are some notable scripts:
+
+| script file               | description                                                            |
+| ------------------------- | ---------------------------------------------------------------------- |
+| `convert-images.py`       | convert selected images in Finder to target format with quality option |
+| `resize-images.py`        | resize selected images in Finder to target % or px                     |
+| `vscode-here.applescript` | open Finder selected folder in VSCode                                  |
+
+## Prerequisite
+
+- image manipulation uses [ImageMagick]
 
 ## Installation
 
@@ -33,13 +36,8 @@ Put the scrips and image files in Raycast's Script Command folder.
 [Twitter]: https://twitter.com/hoishing
 [twitter-icon]: https://api.iconify.design/logos/twitter.svg?width=20
 [raycast]: https://raycast.com
-[espanso]: https://espanso.org
 [mit]: https://img.shields.io/github/license/hoishing/raycast-scripts
-[lang]: https://img.shields.io/badge/lang-bash%20%7C%20applescript-black
-[webp]: https://developers.google.com/speed/webp/
+[lang]: https://img.shields.io/badge/lang-python%20%7C%20bash%20%7C%20applescript-black
 [blog post]: https://dev.to/hoishing/convert-images-to-webp-with-raycast-2pln
-[source code]: https://gist.github.com/hoishing/40baa11323ed08ef584c5dbb47543997
-[pngquant]: https://pngquant.org
-[cwebp]: https://formulae.brew.sh/formula/cweb
-[avif]: https://en.wikipedia.org/wiki/AVIF
-[libavif]: https://github.com/AOMediaCodec/libavif
+[source code]: https://github.com/hoishing/raycast-scripts
+[ImageMagick]: https://github.com/imagemagick/imagemagick

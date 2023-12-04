@@ -49,13 +49,13 @@ The outcome of this effort can be seen on this website, showcasing my work and i
 
 ## Utilities
 
-| app                       |            lang / run             | description                                                            |
-| :------------------------ | :-------------------------------: | :--------------------------------------------------------------------- |
-| [doc2txt]                 |  [![colab-logo]][doc2txt-colab]   | extract text from epub, pdf and docx                                   |
-| [Playwright Crawler]      | [![colab-logo]][playwright-colab] | web scrapping of Taiwan reservoir storage                              |
-| [Raycast Scripts]         |              ![bash]              | [WebP] converter, quick open vscode/terminal in current folder ... etc |
-| [Personalize CangJie IME] |    [![binder]][cangjie-ipynb]     | generate custom char set for 倉頡 IME in Windows                       |
-| [Selenium Crawler]        |    [![binder]][selenium-ipynb]    | web crawler by [Selenium], captcha resolved by [Tesseract OCR]         |
+| app                       |              lang / run              | description                                                                                                   |
+|:------------------------- |:------------------------------------:|:------------------------------------------------------------------------------------------------------------- |
+| [doc2txt]                 |    [![colab-logo]][doc2txt-colab]    | extract text from epub, pdf and docx                                                                          |
+| [Playwright Crawler]      |  [![colab-logo]][playwright-colab]   | web scrapping of Taiwan reservoir storage                                                                     |
+| [Raycast Scripts]         | ![bash] 　![py]　![applescript-logo] | utilities such as image convert/compress, open vscode from Finder ... etc. with bash, python and apple-script | 
+| [Personalize CangJie IME] |      [![binder]][cangjie-ipynb]      | generate custom char set for 倉頡 IME in Windows                                                              |
+| [Selenium Crawler]        |     [![binder]][selenium-ipynb]      | web crawler by [Selenium], captcha resolved by [Tesseract OCR]                                                |
 
 ## Legacy Projects
 
@@ -117,7 +117,7 @@ The outcome of this effort can be seen on this website, showcasing my work and i
 [voice-search-crx]: https://github.com/hoishing/multilingual-voice-search
 [Multilingual Voice Search]: https://chrome.google.com/webstore/detail/multilingual-voice-search/ecfkiahgkikgihfhkmpggilephnaaidm
 [Mini Authenticator]: https://chrome.google.com/webstore/detail/mini-authenticator/nmhjblhloefhbhgbfkdgdpjabaocnhha
-[Raycast Scripts]: https://gist.github.com/hoishing/40baa11323ed08ef584c5dbb47543997
+[Raycast Scripts]: https://github.com/hoishing/raycast-scripts
 [Audrey Tang]: https://zh.wikipedia.org/zh-tw/%E5%94%90%E9%B3%B3
 [work out loud]: https://youtu.be/XpjNl3Z10uc
 [kTemplate]: https://pypi.org/project/ktemplate/
@@ -132,6 +132,6 @@ The outcome of this effort can be seen on this website, showcasing my work and i
 [Playwright Crawler]: https://github.com/hoishing/playwright-crawler
 [Change Background Color]: https://chrome.google.com/webstore/detail/change-background-color/ajlcblmihhjochfgehfcfiopkcbfnlfh
 [chrome-change-background-color]: https://github.com/hoishing/chrome-change-background-color
-[WebP]: https://en.wikipedia.org/wiki/WebP
 [dev.to]: https://dev.to/hoishing
 [dev-logo]: https://api.iconify.design/bxl:dev-to.svg?color=%233ca8fb&width=20
+[applescript-logo]: https://api.iconify.design/vscode-icons/file-type-applescript.svg?width=20
