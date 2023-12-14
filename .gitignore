@@ -1,0 +1,13 @@
+# poetry
+poetry.lock
+
+# Environments
+.env
+.venv
+node_modules
+env/
+.cache
+
+# tmp files
+try.*
+*.bak*
