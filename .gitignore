@@ -4,6 +4,7 @@ poetry.lock
 # Environments
 .env
 .venv
+.vscode
 node_modules
 env/
 .cache
