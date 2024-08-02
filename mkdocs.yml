@@ -86,7 +86,7 @@ nav:
   - Python Packages:
       - pipable: proj/pipable.md
       - kTemplate: proj/ktemplate.md
-      - Icon Resize CLI: proj/icon-resize-cli.md
+      - icon-resize: proj/icon-resize.md
   - NPM Packages:
       - TOTP Generator: proj/totp-auth.md
   - Utilities:
@@ -96,7 +96,6 @@ nav:
       - Selenium Crawler: proj/selenium-crawler.md
   - Legacy Projects:
       - Atom Cell Navigation: proj/cell-navigation.md
-      - Markdown to Dash Docset: proj/md2html_dash.md
       - GData iOS Static lib: proj/gdata-static-lib.md
       - 認識佛教 iOS Apps: proj/buddhism-objc.md
   - Blogs:
