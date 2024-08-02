@@ -5,6 +5,7 @@ description = ""
 authors = ["Kelvin Ng <hoishing@gmail.com>"]
 readme = "README.md"
 packages = [{ include = "hoishing" }]
+package-mode = false
 
 [tool.poetry.dependencies]
 python = "^3.11, <3.12"

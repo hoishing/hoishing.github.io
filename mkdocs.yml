@@ -90,7 +90,6 @@ nav:
   - NPM Packages:
       - TOTP Generator: proj/totp-auth.md
   - Utilities:
-      - doc2txt: proj/doc2txt.md
       - Playwright Crawler: proj/playwright-crawler.md
       - Raycast Scripts: proj/raycast-scripts.md
       - CangJie IME: proj/cangjie.md
