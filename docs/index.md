@@ -1,10 +1,6 @@
-# Work Out Loud 🔊
+# Kelvin's Portfolio
 
-While wandering in a bookstore one day, I stumbled upon a book recommended by Taiwan's IT Minister, [Audrey Tang], which advocated for a work method known as [work out loud].
-
-After reading a few pages, I was immediately captivated and inspired. As a result, I took the time to organize my past works and toy projects, open-sourced them on [Github], and documented the motivations and technical stacks that I utilized.
-
-The outcome of this effort can be seen on this website, showcasing my work and interests, their rationale, and the logic behind the technical decisions I made while solving various problems. I hope you find them intriguing 😉
+Here, I showcase my work and interests, along with their rationale and the logic behind the technical decisions I made while solving various problems. I hope you find them intriguing. 😉
 
 ## Mobile Apps
 
@@ -35,11 +31,11 @@ The outcome of this effort can be seen on this website, showcasing my work and i
 
 - well documented and tested python packages published to PyPi
 
-| package       | lang  | description                                    |              repo              |
-|:------------- |:-----:|:---------------------------------------------- |:------------------------------:|
-| [Pipable]     | ![py] | pipe operation in python                       |   [![git-logo]][pipable-git]   |
-| [kTemplate]   | ![py] | a minimalist python html template              |  [![git-logo]][ktemplate-git]  |
-| [icon-resize] | ![py] | CLI to create lossless icons in multiple sizes | [![git-logo]][icon-resize-git] |
+| package           | lang  | description                                    |              repo              |
+| :---------------- | :---: | :--------------------------------------------- | :----------------------------: |
+| [Pipable]         | ![py] | pipe operation in python                       |   [![git-logo]][pipable-git]   |
+| [kTemplate]       | ![py] | a minimalist python html template              |  [![git-logo]][ktemplate-git]  |
+| [Icon Resize CLI] | ![py] | CLI to create lossless icons in multiple sizes | [![git-logo]][icon-resize-git] |
 
 ## NPM Packages
 
@@ -58,11 +54,11 @@ The outcome of this effort can be seen on this website, showcasing my work and i
 
 ## Legacy Projects
 
-| project                           |       lang       | description                                                     |
-|:--------------------------------- |:----------------:|:--------------------------------------------------------------- |
-| [Atom Cell Navigation]            | ![coffee-script] | Atom editor extension for fast navigating between jupyter cells |
-| [GData iOS Static lib]            |      obj-c       | iOS static library of Google Data APIs                          |
-| [認識佛教 iOS app][buddhism-objc] |      obj-c       | 認識佛教 audio book player for iOS < v10                        |
+| project                           |       lang       | description                                                          |
+| :-------------------------------- | :--------------: | :------------------------------------------------------------------- |
+| [Atom Cell Navigation]            | ![coffee-script] | Atom editor extension for fast navigating between jupyter cells      |
+| [GData iOS Static lib]            |      obj-c       | iOS static library of Google Data APIs                               |
+| [認識佛教 iOS app][buddhism-objc] |      obj-c       | 認識佛教 audio book player for iOS < v10                             |
 
 ## More
 
@@ -101,7 +97,7 @@ The outcome of this effort can be seen on this website, showcasing my work and i
 [voice-recog]: https://github.com/hoishing/voice-recog
 [zero-game]: https://github.com/hoishing/zero-game
 [buddhism-objc]: https://github.com/hoishing/buddhism-objc
-[icon-resize]: https://pypi.org/project/icon-resize
+[Icon Resize CLI]: https://pypi.org/project/icon-resize
 [icon-resize-git]: https://github.com/hoishing/icon-resize-cli
 [unocss]: https://github.com/unocss/unocss
 [alpine.js]: https://alpinejs.dev
