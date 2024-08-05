@@ -98,7 +98,7 @@ Here showcase my work and interests, along with their rationale and the logic be
 [zero-game]: https://github.com/hoishing/zero-game
 [buddhism-objc]: https://github.com/hoishing/buddhism-objc
 [icon-resize]: https://pypi.org/project/icon-resize
-[icon-resize-git]: https://github.com/hoishing/icon-resize-cli
+[icon-resize-git]: https://github.com/hoishing/icon-resize
 [unocss]: https://github.com/unocss/unocss
 [alpine.js]: https://alpinejs.dev
 [pwa]: https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps

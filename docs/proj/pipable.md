@@ -4,7 +4,8 @@
 
 > pipe operation in python
 
-🔗 [source code](https://github.com/hoishing/pipable)
+- [docs](https://hoishing.github.io/pipable) 
+- [source code](https://github.com/hoishing/pipable)
 
 ## Quick Start
 

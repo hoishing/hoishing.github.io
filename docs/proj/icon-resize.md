@@ -1,17 +1,16 @@
-# Icon Resize CLI
+# Icon Resize
 
-[![pypi-badge]][pypi-url] ![py-badge] [![black-badge]][black-url] ![mit]
+[![pypi-badge]][pypi-url] [![black-badge]][black-url] ![mit]
 
 ![screenshot](https://i.imgur.com/K00hCxN.png)
 
 > CLI to create lossless icons in multiple sizes
 
-🔗 [source code]
+- [source code]
 
 [mit]: https://img.shields.io/github/license/hoishing/icon-resize
 [black-badge]: https://img.shields.io/badge/code%20style-black-000000.svg
 [black-url]: https://github.com/psf/black
-[py-badge]: https://img.shields.io/badge/python-3.10%20%7C%203.11-blue
 [source code]: https://github.com/hoishing/icon-resize-cli/
 
 ## Features
