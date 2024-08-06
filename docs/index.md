@@ -61,11 +61,10 @@ Here showcase my work and interests, along with their rationale and the logic be
 
 ## More
 
-- [ping me on twitter ![twitter]][tw-shing]
-- [my profile site ![profile-icon]][profile]
-- [tech blogs ![dev-logo]][dev.to]
-- [open source repos ![git-logo]][github]
 - [LinkedIn ![LinkedIn-logo]][LinkedIn]
+- [ping me on twitter ![twitter]][tw-shing]
+- [open source repos ![git-logo]][github]
+- [tech blogs ![dev-logo]][dev.to]
 
 [LinkedIn-logo]: https://api.iconify.design/devicon/linkedin.svg?width=20
 [LinkedIn]: https://www.linkedin.com/in/hoishing
@@ -77,7 +76,6 @@ Here showcase my work and interests, along with their rationale and the logic be
 [swift]: https://api.iconify.design/logos/swift.svg?width=20
 [coffee-script]: https://api.iconify.design/cib/coffeescript.svg?color=%235999FF&width=20
 [twitter]: https://api.iconify.design/logos/twitter.svg?width=20
-[profile-icon]: https://api.iconify.design/carbon/user-profile.svg?color=%23EF476F&width=20
 [binder]: https://mybinder.org/badge_logo.svg
 [Video Compressor]: https://apps.apple.com/hk/app/video-compressor/id482465886
 [英漢字典]: https://apps.apple.com/hk/app/%E8%8B%B1%E6%BC%A2%E5%AD%97%E5%85%B8-ec-dict/id371152394
@@ -92,7 +90,6 @@ Here showcase my work and interests, along with their rationale and the logic be
 [TOTP Generator]: https://www.npmjs.com/package/totp-auth
 [GData iOS Static lib]: https://github.com/hoishing/GData-iOS-Static-Library-1.12
 [tw-shing]: https://twitter.com/hoishing
-[profile]: https://hoishing.github.io/
 [voice-recog]: https://github.com/hoishing/voice-recog
 [zero-game]: https://github.com/hoishing/zero-game
 [buddhism-objc]: https://github.com/hoishing/buddhism-objc

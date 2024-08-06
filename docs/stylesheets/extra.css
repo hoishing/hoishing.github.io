@@ -9,3 +9,11 @@ header {
 .md-typeset h1 {
   color: hsla(var(--md-hue), 75%, 90%, 0.8);
 }
+
+label.md-nav__title {
+  display: none;
+}
+
+.md-grid {
+  max-width: 1000px; 
+}
