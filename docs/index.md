@@ -13,20 +13,6 @@ Here showcase my work and interests, along with their rationale and the logic be
 | [英漢字典]         | ![swift] | iOS         | education     |                          |
 | [同音字典]         | ![swift] | iOS + macOS | education     |                          |
 
-## Web Apps
-
-| app                  |           tech stack           | description                                                          |            repo            |
-| :------------------- | :----------------------------: | :------------------------------------------------------------------- | :------------------------: |
-| [Speech Recognition] | [PWA] + [Alpine.js] + [UnoCSS] | quick and easy speech synthesis PWA powered by Google Web Speech API | [![git-logo]][voice-recog] |
-
-## Chrome Extensions
-
-| extension                   | lang  | description                                                                   |                     repo                      |
-| :-------------------------- | :---: | :---------------------------------------------------------------------------- | :-------------------------------------------: |
-| [Mini Authenticator]        | ![ts] | minimal 2FA authenticator that never store your secret keys                   |           [![git-logo]][mini-auth]            |
-| [Change Background Color]   | ![js] | Change background color of the current site                                   | [![git-logo]][chrome-change-background-color] |
-| [Multilingual Voice Search] | ![js] | Google voice search in languages different from your OS and location settings |        [![git-logo]][voice-search-crx]        |
-
 ## Python Packages
 
 - well documented and tested python packages published to PyPi
@@ -43,6 +29,20 @@ Here showcase my work and interests, along with their rationale and the logic be
 | :--------------- | :---: | :------------------------------------- | :----------------------: |
 | [TOTP Generator] | ![ts] | time-based one-time-password generator | [![git-logo]][totp-auth] |
 
+## Chrome Extensions
+
+| extension                   | lang  | description                                                                   |                     repo                      |
+| :-------------------------- | :---: | :---------------------------------------------------------------------------- | :-------------------------------------------: |
+| [Mini Authenticator]        | ![ts] | minimal 2FA authenticator that never store your secret keys                   |           [![git-logo]][mini-auth]            |
+| [Change Background Color]   | ![js] | Change background color of the current site                                   | [![git-logo]][chrome-change-background-color] |
+| [Multilingual Voice Search] | ![js] | Google voice search in languages different from your OS and location settings |        [![git-logo]][voice-search-crx]        |
+
+## Web Apps
+
+| app                  |           tech stack           | description                                                          |            repo            |
+| :------------------- | :----------------------------: | :------------------------------------------------------------------- | :------------------------: |
+| [Speech Recognition] | [PWA] + [Alpine.js] + [UnoCSS] | quick and easy speech synthesis PWA powered by Google Web Speech API | [![git-logo]][voice-recog] |
+
 ## Utilities
 
 | app                       |              lang / run              | description                                                                                                   |
@@ -50,7 +50,6 @@ Here showcase my work and interests, along with their rationale and the logic be
 | [Playwright Crawler]      |  [![colab-logo]][playwright-colab]   | web scrapping of Taiwan reservoir storage                                                                     |
 | [Raycast Scripts]         | ![bash] 　![py]　![applescript-logo] | utilities such as image convert/compress, open vscode from Finder ... etc. with bash, python and apple-script | 
 | [Personalize CangJie IME] |      [![binder]][cangjie-ipynb]      | generate custom char set for 倉頡 IME in Windows                                                              |
-| [Selenium Crawler]        |     [![binder]][selenium-ipynb]      | web crawler by [Selenium], captcha resolved by [Tesseract OCR]                                                |
 
 ## Legacy Projects
 
@@ -104,9 +103,6 @@ Here showcase my work and interests, along with their rationale and the logic be
 [pwa]: https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps
 [Speech Recognition]: https://hoishing.github.io/speech-recog
 [git-logo]: https://api.iconify.design/bi/github.svg?color=%236FD886&width=20
-[Tesseract OCR]: https://github.com/madmaze/pytesseract
-[selenium]: https://selenium-python.readthedocs.io
-[Selenium Crawler]: https://github.com/hoishing/selenium-crawler
 [voice-search-crx]: https://github.com/hoishing/multilingual-voice-search
 [Multilingual Voice Search]: https://chrome.google.com/webstore/detail/multilingual-voice-search/ecfkiahgkikgihfhkmpggilephnaaidm
 [Mini Authenticator]: https://chrome.google.com/webstore/detail/mini-authenticator/nmhjblhloefhbhgbfkdgdpjabaocnhha
@@ -117,7 +113,6 @@ Here showcase my work and interests, along with their rationale and the logic be
 [kTemplate-git]: https://github.com/hoishing/kTemplate
 [pipable]: https://pypi.org/project/pipable
 [pipable-git]: https://github.com/hoishing/pipable
-[selenium-ipynb]: https://mybinder.org/v2/gh/hoishing/selenium-crawler/HEAD?labpath=selenium-crawler.ipynb
 [colab-logo]: https://colab.research.google.com/assets/colab-badge.svg
 [playwright-colab]: https://colab.research.google.com/github/hoishing/playwright-crawler/blob/main/tw-reservoir.ipynb
 [Playwright Crawler]: https://github.com/hoishing/playwright-crawler

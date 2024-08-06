@@ -15,8 +15,9 @@ jobs:
         with:
           python-version: 3.x
           cache: "pip"
-      - run: |
+      - name: Install dependencies
+        run: |
           python -m venv venv
           source venv/bin/activate
           pip install --use-feature=fast-deps mkdocstrings[python] mkdocs-material cairosvg pillow
-          mkdocs gh-deploy --force
+      - run: mkdocs gh-deploy --force
