@@ -4,7 +4,7 @@ Here showcase my work and interests, along with their rationale and the logic be
 
 ## Mobile Apps
 
-- see all recent published iOS / macOS app [here][iOS apps]
+- see all recent published iOS / macOS app in [App Store][iOS apps]
 
 | app                |   lang   | platform    | category      |           repo           |
 | :----------------- | :------: | ----------- | ------------- | :----------------------: |
@@ -15,10 +15,10 @@ Here showcase my work and interests, along with their rationale and the logic be
 
 ## Python Packages
 
-- well documented and tested python packages published to PyPi
+- well documented and tested python packages published in PyPi
 
 | package       | lang  | description                                    |              repo              |
-|:------------- |:-----:|:---------------------------------------------- |:------------------------------:|
+| :------------ | :---: | :--------------------------------------------- | :----------------------------: |
 | [Pipable]     | ![py] | pipe operation in python                       |   [![git-logo]][pipable-git]   |
 | [kTemplate]   | ![py] | a minimalist python html template              |  [![git-logo]][ktemplate-git]  |
 | [icon-resize] | ![py] | CLI to create lossless icons in multiple sizes | [![git-logo]][icon-resize-git] |
@@ -46,28 +46,36 @@ Here showcase my work and interests, along with their rationale and the logic be
 ## Utilities
 
 | app                       |              lang / run              | description                                                                                                   |
-|:------------------------- |:------------------------------------:|:------------------------------------------------------------------------------------------------------------- |
+| :------------------------ | :----------------------------------: | :------------------------------------------------------------------------------------------------------------ |
 | [Playwright Crawler]      |  [![colab-logo]][playwright-colab]   | web scrapping of Taiwan reservoir storage                                                                     |
-| [Raycast Scripts]         | ![bash] 　![py]　![applescript-logo] | utilities such as image convert/compress, open vscode from Finder ... etc. with bash, python and apple-script | 
+| [Raycast Scripts]         | ![bash] 　![py]　![applescript-logo] | utilities such as image convert/compress, open vscode from Finder ... etc. with bash, python and apple-script |
 | [Personalize CangJie IME] |      [![binder]][cangjie-ipynb]      | generate custom char set for 倉頡 IME in Windows                                                              |
 
 ## Legacy Projects
 
-| project                           |       lang       | description                                                          |
-| :-------------------------------- | :--------------: | :------------------------------------------------------------------- |
-| [Atom Cell Navigation]            | ![coffee-script] | Atom editor extension for fast navigating between jupyter cells      |
-| [GData iOS Static lib]            |      obj-c       | iOS static library of Google Data APIs                               |
-| [認識佛教 iOS app][buddhism-objc] |      obj-c       | 認識佛教 audio book player for iOS < v10                             |
+| project                           |       lang       | description                                                     |
+| :-------------------------------- | :--------------: | :-------------------------------------------------------------- |
+| [Atom Cell Navigation]            | ![coffee-script] | Atom editor extension for fast navigating between jupyter cells |
+| [GData iOS Static lib]            |      obj-c       | iOS static library of Google Data APIs                          |
+| [認識佛教 iOS app][buddhism-objc] |      obj-c       | 認識佛教 audio book player for iOS < v10                        |
 
-## More
+## About
 
-- [LinkedIn ![LinkedIn-logo]][LinkedIn]
-- [ping me on twitter ![twitter]][tw-shing]
-- [open source repos ![git-logo]][github]
-- [tech blogs ![dev-logo]][dev.to]
+<a href="https://www.linkedin.com/in/hoishing">
+  <img src="https://api.iconify.design/devicon/linkedin.svg?width=20" />&nbsp;&nbsp;
+  <span style="vertical-align: 0.2rem;">LinkedIn</span>
+</a>
 
-[LinkedIn-logo]: https://api.iconify.design/devicon/linkedin.svg?width=20
-[LinkedIn]: https://www.linkedin.com/in/hoishing
+<a href="https://x.com/hoishing">
+  <img src="https://api.iconify.design/ri:twitter-x-fill.svg?width=20&color=DarkGray" />&nbsp;&nbsp;
+  <span style="vertical-align: 0.2rem;">Posts</span>
+</a>
+
+<a href="https://github.com/hoishing">
+  <img src="https://api.iconify.design/bi/github.svg?color=%236FD886&width=20" />&nbsp;&nbsp;
+  <span style="vertical-align: 0.2rem;">Open Source Projects</span>
+</a>
+
 [github]: https://github.com/hoishing
 [py]: https://api.iconify.design/logos/python.svg?width=20
 [js]: https://api.iconify.design/logos/javascript.svg?width=20
@@ -75,7 +83,6 @@ Here showcase my work and interests, along with their rationale and the logic be
 [bash]: https://api.iconify.design/logos/bash-icon.svg?width=20
 [swift]: https://api.iconify.design/logos/swift.svg?width=20
 [coffee-script]: https://api.iconify.design/cib/coffeescript.svg?color=%235999FF&width=20
-[twitter]: https://api.iconify.design/logos/twitter.svg?width=20
 [binder]: https://mybinder.org/badge_logo.svg
 [Video Compressor]: https://apps.apple.com/hk/app/video-compressor/id482465886
 [英漢字典]: https://apps.apple.com/hk/app/%E8%8B%B1%E6%BC%A2%E5%AD%97%E5%85%B8-ec-dict/id371152394
@@ -89,7 +96,6 @@ Here showcase my work and interests, along with their rationale and the logic be
 [totp-auth]: https://github.com/hoishing/totp-auth
 [TOTP Generator]: https://www.npmjs.com/package/totp-auth
 [GData iOS Static lib]: https://github.com/hoishing/GData-iOS-Static-Library-1.12
-[tw-shing]: https://twitter.com/hoishing
 [voice-recog]: https://github.com/hoishing/voice-recog
 [zero-game]: https://github.com/hoishing/zero-game
 [buddhism-objc]: https://github.com/hoishing/buddhism-objc
@@ -115,6 +121,4 @@ Here showcase my work and interests, along with their rationale and the logic be
 [Playwright Crawler]: https://github.com/hoishing/playwright-crawler
 [Change Background Color]: https://chrome.google.com/webstore/detail/change-background-color/ajlcblmihhjochfgehfcfiopkcbfnlfh
 [chrome-change-background-color]: https://github.com/hoishing/chrome-change-background-color
-[dev.to]: https://dev.to/hoishing
-[dev-logo]: https://api.iconify.design/bxl:dev-to.svg?color=%233ca8fb&width=20
 [applescript-logo]: https://api.iconify.design/vscode-icons/file-type-applescript.svg?width=20

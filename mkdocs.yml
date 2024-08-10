@@ -12,7 +12,7 @@ theme:
     text: Varela Round
   icon:
     repo: fontawesome/brands/github
-  favicon: assets/rocket-favicon.svg
+  favicon: assets/favicon.png
   logo: assets/rocket-launch.svg
   palette:
     # Palette toggle for dark mode
@@ -40,8 +40,8 @@ extra:
   social:
     - icon: fontawesome/brands/linkedin
       link: https://www.linkedin.com/in/hoishing
-    - icon: fontawesome/brands/twitter
-      link: https://twitter.com/hoishing
+    - icon: fontawesome/brands/x-twitter
+      link: https://x.com/hoishing
     - icon: fontawesome/brands/github
       link: https://github.com/hoishing
     - icon: fontawesome/brands/dev
@@ -68,31 +68,6 @@ markdown_extensions:
   - pymdownx.snippets
   - toc:
       toc_depth: 3
-# nav:
-#   - Overview: index.md
-#   - Mobile Apps:
-#       - ZERO: proj/zero-game.md
-#       - Video Compressor ↗: https://apps.apple.com/hk/app/video-compressor/id482465886
-#       - Easy Dictionary ↗: https://apps.apple.com/hk/app/%E8%8B%B1%E6%BC%A2%E5%AD%97%E5%85%B8-easy-dictionary/id684273271
-#       - 英漢字典 ↗: https://apps.apple.com/hk/app/%E8%8B%B1%E6%BC%A2%E5%AD%97%E5%85%B8-ec-dict/id371152394
-#       - 同音字典 ↗: https://apps.apple.com/hk/app/%E5%90%8C%E9%9F%B3%E5%AD%97%E5%85%B8/id956045098
-#   - Python Packages:
-#       - pipable: proj/pipable.md
-#       - kTemplate: proj/ktemplate.md
-#       - icon-resize: proj/icon-resize.md
-#   - NPM Packages:
-#       - TOTP Generator: proj/totp-auth.md
-#   - Chrome Extensions:
-#       - Mini Authenticator: proj/mini-authenticator.md
-#       - Change Background Color: proj/chrome-change-bg.md
-#       - Multilingual Voice Search: proj/multilingual-voice-search.md
-#   - Web Apps:
-#       - Speech Recognition: proj/speech-recog.md
-#   - Utilities:
-#       - Playwright Crawler: proj/playwright-crawler.md
-#       - Raycast Scripts: proj/raycast-scripts.md
-#       - CangJie IME: proj/cangjie.md
-#   - Legacy Projects:
-#       - Atom Cell Navigation: proj/cell-navigation.md
-#       - GData iOS Static lib: proj/gdata-static-lib.md
-#       - 認識佛教 iOS Apps: proj/buddhism-objc.md
+
+nav:
+  - index.md

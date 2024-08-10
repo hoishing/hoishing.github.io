@@ -17,3 +17,7 @@ label.md-nav__title {
 .md-grid {
   max-width: 1000px; 
 }
+
+.md-typeset table:not([class]) {
+  font-size: .72rem;
+}
