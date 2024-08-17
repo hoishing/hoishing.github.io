@@ -8,9 +8,7 @@ package-mode = false
 
 [tool.poetry.dependencies]
 python = "^3.12"
-mkdocs-material = "^9.1.13"
-pillow = "^9.5.0"
-cairosvg = "^2.7.0"
+mkdocs-material = {extras = ["imaging"], version = "^9.5.31"}
 mkdocstrings = { extras = ["python"], version = "^0.25.2" }
 
 

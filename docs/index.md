@@ -45,11 +45,11 @@ Here showcase my work and interests, along with their rationale and the logic be
 
 ## Utilities
 
-| app                       |              lang / run              | description                                                                                                   |
-| :------------------------ | :----------------------------------: | :------------------------------------------------------------------------------------------------------------ |
-| [Playwright Crawler]      |  [![colab-logo]][playwright-colab]   | web scrapping of Taiwan reservoir storage                                                                     |
-| [Raycast Scripts]         | ![bash] 　![py]　![applescript-logo] | utilities such as image convert/compress, open vscode from Finder ... etc. with bash, python and apple-script |
-| [Personalize CangJie IME] |      [![binder]][cangjie-ipynb]      | generate custom char set for 倉頡 IME in Windows                                                              |
+| app                       |            lang / run             | description                                                                                                   |
+|:------------------------- |:---------------------------------:|:------------------------------------------------------------------------------------------------------------- |
+| [Playwright Crawler]      | [![colab-logo]][playwright-colab] | web scrapping of Taiwan reservoir storage                                                                     |
+| [Raycast Scripts]         |              ![bash]              | utilities such as image convert/compress, open vscode from Finder ... etc. with bash, python and apple-script |
+| [Personalize CangJie IME] |    [![binder]][cangjie-ipynb]     | generate custom char set for 倉頡 IME in Windows                                                              |
 
 ## Legacy Projects
 
@@ -69,7 +69,6 @@ Here showcase my work and interests, along with their rationale and the logic be
 
 [alpine.js]: https://alpinejs.dev
 [App Store]: https://apps.apple.com/hk/developer/fbm/id371152397
-[applescript-logo]: https://api.iconify.design/vscode-icons/file-type-applescript.svg?width=20
 [Atom Cell Navigation]: https://github.com/hoishing/cell-navigation
 [bash]: https://api.iconify.design/logos/bash-icon.svg?width=20
 [binder]: https://mybinder.org/badge_logo.svg
