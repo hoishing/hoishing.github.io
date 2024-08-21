@@ -18,10 +18,17 @@ Here showcase my work and interests, along with their rationale and the logic be
 - well documented and tested python packages published in PyPi
 
 | package       | lang  | description                                    |              repo              |
-| :------------ | :---: | :--------------------------------------------- | :----------------------------: |
+|:------------- |:-----:|:---------------------------------------------- |:------------------------------:|
 | [Pipable]     | ![py] | pipe operation in python                       |   [![git-logo]][pipable-git]   |
-| [kTemplate]   | ![py] | a minimalist python html template              |  [![git-logo]][ktemplate-git]  |
+| [ptag]        | ![py] | pythonic way to create HTML/XML/SVG tags       |    [![git-logo]][ptag-git]     |
 | [icon-resize] | ![py] | CLI to create lossless icons in multiple sizes | [![git-logo]][icon-resize-git] |
+
+## Web Apps
+
+| app                  |           tech stack           | description                                                          |            repo            |
+|:-------------------- |:------------------------------:|:-------------------------------------------------------------------- |:--------------------------:|
+| [APN Tester]         |    ![py] + [![st-logo]][st]    | test Apple Push Notification with ease                               | [![git-logo]][apn-tester]  |
+| [Speech Recognition] | [PWA] + [Alpine.js] + [UnoCSS] | quick and easy speech synthesis PWA powered by Google Web Speech API | [![git-logo]][voice-recog] |
 
 ## NPM Packages
 
@@ -36,12 +43,6 @@ Here showcase my work and interests, along with their rationale and the logic be
 | [Mini Authenticator]        | ![ts] | minimal 2FA authenticator that never store your secret keys                   |           [![git-logo]][mini-auth]            |
 | [Change Background Color]   | ![js] | Change background color of the current site                                   | [![git-logo]][chrome-change-background-color] |
 | [Multilingual Voice Search] | ![js] | Google voice search in languages different from your OS and location settings |        [![git-logo]][voice-search-crx]        |
-
-## Web Apps
-
-| app                  |           tech stack           | description                                                          |            repo            |
-| :------------------- | :----------------------------: | :------------------------------------------------------------------- | :------------------------: |
-| [Speech Recognition] | [PWA] + [Alpine.js] + [UnoCSS] | quick and easy speech synthesis PWA powered by Google Web Speech API | [![git-logo]][voice-recog] |
 
 ## Utilities
 
@@ -68,6 +69,8 @@ Here showcase my work and interests, along with their rationale and the logic be
 [![git-logo] Repos][github]
 
 [alpine.js]: https://alpinejs.dev
+[APN Tester]: https://apn-tester.streamlit.app
+[apn-tester]: https://github.com/hoishing/apn-tester
 [App Store]: https://apps.apple.com/hk/developer/fbm/id371152397
 [Atom Cell Navigation]: https://github.com/hoishing/cell-navigation
 [bash]: https://api.iconify.design/logos/bash-icon.svg?width=20
@@ -84,10 +87,8 @@ Here showcase my work and interests, along with their rationale and the logic be
 [icon-resize-git]: https://github.com/hoishing/icon-resize
 [icon-resize]: https://pypi.org/project/icon-resize
 [js]: https://api.iconify.design/logos/javascript.svg?width=20
-[kTemplate-git]: https://github.com/hoishing/kTemplate
-[kTemplate]: https://pypi.org/project/ktemplate/
-[linkedin]: https://www.linkedin.com/in/hoishing
 [linkedin-logo]: https://api.iconify.design/devicon/linkedin.svg?width=20
+[linkedin]: https://www.linkedin.com/in/hoishing
 [Mini Authenticator]: https://chrome.google.com/webstore/detail/mini-authenticator/nmhjblhloefhbhgbfkdgdpjabaocnhha
 [mini-auth]: https://github.com/hoishing/mini-authenticator
 [Multilingual Voice Search]: https://chrome.google.com/webstore/detail/multilingual-voice-search/ecfkiahgkikgihfhkmpggilephnaaidm
@@ -96,10 +97,14 @@ Here showcase my work and interests, along with their rationale and the logic be
 [pipable]: https://pypi.org/project/pipable
 [Playwright Crawler]: https://github.com/hoishing/playwright-crawler
 [playwright-colab]: https://colab.research.google.com/github/hoishing/playwright-crawler/blob/main/tw-reservoir.ipynb
+[ptag-git]: https://github.com/hoishing/ptag
+[ptag]: https://pypi.org/project/ptag
 [pwa]: https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps
 [py]: https://api.iconify.design/logos/python.svg?width=20
 [Raycast Scripts]: https://github.com/hoishing/raycast-scripts
 [Speech Recognition]: https://hoishing.github.io/speech-recog
+[st-logo]: https://api.iconify.design/logos/streamlit.svg?width=20
+[st]: https://streamlit.io
 [swift]: https://api.iconify.design/logos/swift.svg?width=20
 [TOTP Generator]: https://www.npmjs.com/package/totp-auth
 [totp-auth]: https://github.com/hoishing/totp-auth
