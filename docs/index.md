@@ -27,7 +27,7 @@ Here showcase my work and interests, along with their rationale and the logic be
 
 | package       | lang  | description                                    |              repo              |
 |:------------- |:-----:|:---------------------------------------------- |:------------------------------:|
-| [natal]       | ![py] | create SVG natal chart in python with ease     |    [![git-logo]][natal-git]    |
+| [natal]       | ![py] | create Natal Chart with ease                   |    [![git-logo]][natal-git]    |
 | [ptag]        | ![py] | pythonic way to create HTML/XML/SVG tags       |    [![git-logo]][ptag-git]     |
 | [Pipable]     | ![py] | pipe operation in python                       |   [![git-logo]][pipable-git]   |
 | [tagit]       | ![py] | HTML/SVG tag generator for minimalist          |    [![git-logo]][tagit-git]    |
