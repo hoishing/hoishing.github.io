@@ -15,11 +15,12 @@ Here showcase my work and interests, along with their rationale and the logic be
 
 ## Web Apps
 
-| app                  |           tech stack           | description                                                          |            repo            |
-|:-------------------- |:------------------------------:|:-------------------------------------------------------------------- |:--------------------------:|
-| [APN Tester]         |    ![py] + [![st-logo]][st]    | test Apple Push Notification with ease                               | [![git-logo]][apn-tester]  |
-| [rm-DRM]             |    ![py] + [![st-logo]][st]    | remove DRM of your own ebook in Adobe Digital Edition                | [![git-logo]][rm-drm-git]  |
-| [Speech Recognition] | [PWA] + [Alpine.js] + [UnoCSS] | quick and easy speech synthesis PWA powered by Google Web Speech API | [![git-logo]][voice-recog] |
+| app                  |           tech stack           | description                                                          |            repo             |
+|:-------------------- |:------------------------------:|:-------------------------------------------------------------------- |:---------------------------:|
+| [AstroBro]           |    ![py] + [![st-logo]][st]    | PWA for quick Astrological Chart and Stats                           | [![git-logo]][astrobro-git] |
+| [APN Tester]         |    ![py] + [![st-logo]][st]    | test Apple Push Notification with ease                               |  [![git-logo]][apn-tester]  |
+| [rm-DRM]             |    ![py] + [![st-logo]][st]    | remove DRM of your own ebook in Adobe Digital Edition                |  [![git-logo]][rm-drm-git]  |
+| [Speech Recognition] | [PWA] + [Alpine.js] + [UnoCSS] | quick and easy speech synthesis PWA powered by Google Web Speech API | [![git-logo]][voice-recog]  |
 
 ## Python Packages
 
@@ -74,6 +75,8 @@ Here showcase my work and interests, along with their rationale and the logic be
 [alpine.js]: https://alpinejs.dev
 [APN Tester]: https://apn-tester.streamlit.app
 [apn-tester]: https://github.com/hoishing/apn-tester
+[AstroBro]: https://hoishing.github.io/astrobro
+[astrobro-git]: https://github.com/hoishing/astrobro
 [App Store]: https://apps.apple.com/hk/developer/fbm/id371152397
 [Atom Cell Navigation]: https://github.com/hoishing/cell-navigation
 [bash]: https://api.iconify.design/logos/bash-icon.svg?width=20
