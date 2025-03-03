@@ -26,13 +26,14 @@ Here showcase my work and interests, along with their rationale and the logic be
 
 - well documented and tested python packages published in PyPi
 
-| package       | lang  | description                                    |              repo              |
-|:------------- |:-----:|:---------------------------------------------- |:------------------------------:|
-| [natal]       | ![py] | create Natal Chart with ease                   |    [![git-logo]][natal-git]    |
-| [ptag]        | ![py] | pythonic way to create HTML/XML/SVG tags       |    [![git-logo]][ptag-git]     |
-| [Pipable]     | ![py] | pipe operation in python                       |   [![git-logo]][pipable-git]   |
-| [tagit]       | ![py] | HTML/SVG tag generator for minimalist          |    [![git-logo]][tagit-git]    |
-| [icon-resize] | ![py] | CLI to create lossless icons in multiple sizes | [![git-logo]][icon-resize-git] |
+| package         | lang  | description                                               |               repo               |
+| :-------------- | :---: | :-------------------------------------------------------- | :------------------------------: |
+| [natal]         | ![py] | create Natal Chart with ease                              |     [![git-logo]][natal-git]     |
+| [ptag]          | ![py] | pythonic way to create HTML/XML/SVG tags                  |     [![git-logo]][ptag-git]      |
+| [yt-transcribe] | ![py] | youtube transcript extract and transcribe with Whisper AI | [![git-logo]][yt-transcribe-git] |
+| [Pipable]       | ![py] | pipe operation in python                                  |    [![git-logo]][pipable-git]    |
+| [tagit]         | ![py] | HTML/SVG tag generator for minimalist                     |     [![git-logo]][tagit-git]     |
+| [icon-resize]   | ![py] | CLI to create lossless icons in multiple sizes            |  [![git-logo]][icon-resize-git]  |
 
 ## NPM Packages
 
@@ -75,9 +76,9 @@ Here showcase my work and interests, along with their rationale and the logic be
 [alpine.js]: https://alpinejs.dev
 [APN Tester]: https://apn-tester.streamlit.app
 [apn-tester]: https://github.com/hoishing/apn-tester
-[AstroBro]: https://hoishing.github.io/astrobro
-[astrobro-git]: https://github.com/hoishing/astrobro
 [App Store]: https://apps.apple.com/hk/developer/fbm/id371152397
+[astrobro-git]: https://github.com/hoishing/astrobro
+[AstroBro]: https://hoishing.github.io/astrobro
 [Atom Cell Navigation]: https://github.com/hoishing/cell-navigation
 [bash]: https://api.iconify.design/logos/bash-icon.svg?width=20
 [binder]: https://mybinder.org/badge_logo.svg
@@ -127,6 +128,8 @@ Here showcase my work and interests, along with their rationale and the logic be
 [voice-search-crx]: https://github.com/hoishing/multilingual-voice-search
 [x-logo]: https://api.iconify.design/ri:twitter-x-fill.svg?width=20&color=DarkGray
 [x-post]: https://x.com/hoishing
+[yt-transcribe-git]: https://github.com/hoishing/yt-transcribe
+[yt-transcribe]: https://pypi.org/project/yt-transcribe
 [zero-game]: https://github.com/hoishing/zero-game
 [ZERO]: https://apps.apple.com/hk/app/zero-tbs/id1399856976
 [同音字典]: https://apps.apple.com/hk/app/%E5%90%8C%E9%9F%B3%E5%AD%97%E5%85%B8/id956045098
