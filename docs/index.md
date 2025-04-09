@@ -2,25 +2,31 @@
 
 Here showcase my work and interests, along with their rationale and the logic behind the technical decisions I made while solving various problems. I hope you find them intriguing. 😉
 
+## Streamlit Apps
+
+| app          | description                                           |            repo             |
+|:------------ |:----------------------------------------------------- |:---------------------------:|
+| [AstroBro]   | PWA for quick Astrological Chart and Stats            | [![git-logo]][astrobro-git] |
+| [APN Tester] | test Apple Push Notification with ease                |  [![git-logo]][apn-tester]  |
+| [rm-DRM]     | remove DRM of your own ebook in Adobe Digital Edition |  [![git-logo]][rm-drm-git]  |
+
+## Streamlit Custom Components
+
+| app                        | description                                                             |             repo             |
+|:-------------------------- |:----------------------------------------------------------------------- |:----------------------------:|
+| [st-dialog-close-detector] | Automatically rerun Streamlit app when a dialog is closed               | [![git-logo]][st-dialog-git] |
+| [st-scweenwidth-detector]  | get current screen width and trigger app rerun when screen size changes | [![git-logo]][st-screen-git] |
+
 ## Mobile Apps
 
 - all recent published iOS / macOS app in [App Store]
 
 | app                |   lang   | platform    | category      |           repo           |
-| :----------------- | :------: | ----------- | ------------- | :----------------------: |
+|:------------------ |:--------:| ----------- | ------------- |:------------------------:|
 | [英漢字典]         | ![swift] | iOS         | education     |                          |
 | [ZERO]             | ![swift] | iOS + macOS | strategy game | [![git-logo]][zero-game] |
 | [Video Compressor] | ![swift] | iOS         | utility       |                          |
 | [同音字典]         | ![swift] | iOS + macOS | education     |                          |
-
-## Web Apps
-
-| app                  |           tech stack           | description                                                          |            repo             |
-|:-------------------- |:------------------------------:|:-------------------------------------------------------------------- |:---------------------------:|
-| [AstroBro]           |    ![py] + [![st-logo]][st]    | PWA for quick Astrological Chart and Stats                           | [![git-logo]][astrobro-git] |
-| [APN Tester]         |    ![py] + [![st-logo]][st]    | test Apple Push Notification with ease                               |  [![git-logo]][apn-tester]  |
-| [rm-DRM]             |    ![py] + [![st-logo]][st]    | remove DRM of your own ebook in Adobe Digital Edition                |  [![git-logo]][rm-drm-git]  |
-| [Speech Recognition] | [PWA] + [Alpine.js] + [UnoCSS] | quick and easy speech synthesis PWA powered by Google Web Speech API | [![git-logo]][voice-recog]  |
 
 ## Python Packages
 
@@ -73,7 +79,6 @@ Here showcase my work and interests, along with their rationale and the logic be
 
 [![git-logo] Repos][github]
 
-[alpine.js]: https://alpinejs.dev
 [APN Tester]: https://apn-tester.streamlit.app
 [apn-tester]: https://github.com/hoishing/apn-tester
 [App Store]: https://apps.apple.com/hk/developer/fbm/id371152397
@@ -91,6 +96,8 @@ Here showcase my work and interests, along with their rationale and the logic be
 [GData iOS Static lib]: https://github.com/hoishing/GData-iOS-Static-Library-1.12
 [git-logo]: https://api.iconify.design/bi/github.svg?color=%236FD886&width=20
 [github]: https://github.com/hoishing
+[gllm-git]: https://github.com/hoishing/gllm
+[gllm]: https://pypi.org/project/gllm-cli
 [icon-resize-git]: https://github.com/hoishing/icon-resize
 [icon-resize]: https://pypi.org/project/icon-resize
 [js]: https://api.iconify.design/logos/javascript.svg?width=20
@@ -108,23 +115,21 @@ Here showcase my work and interests, along with their rationale and the logic be
 [playwright-colab]: https://colab.research.google.com/github/hoishing/playwright-crawler/blob/main/tw-reservoir.ipynb
 [ptag-git]: https://github.com/hoishing/ptag
 [ptag]: https://pypi.org/project/ptag
-[pwa]: https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps
 [py]: https://api.iconify.design/logos/python.svg?width=20
 [Raycast Scripts]: https://github.com/hoishing/raycast-scripts
 [rm-drm-git]: https://github.com/hoishing/rm-drm
 [rm-drm]: https://rm-drm.streamlit.app
-[Speech Recognition]: https://hoishing.github.io/speech-recog
-[st-logo]: https://api.iconify.design/logos/streamlit.svg?width=20
-[st]: https://streamlit.io
+[st-dialog-close-detector]: https://pypi.org/project/st-dialog-close-detector/
+[st-dialog-git]: https://github.com/hoishing/st-dialog-close-detector
+[st-screen-git]: https://github.com/hoishing/st-screenwidth-detector
+[st-scweenwidth-detector]: https://pypi.org/project/st-screenwidth-detector/
 [swift]: https://api.iconify.design/logos/swift.svg?width=20
 [tagit-git]: https://github.com/hoishing/tagit
 [tagit]: https://pypi.org/project/tagit
 [TOTP Generator]: https://www.npmjs.com/package/totp-auth
 [totp-auth]: https://github.com/hoishing/totp-auth
 [ts]: https://api.iconify.design/logos/typescript-icon.svg?width=20
-[unocss]: https://github.com/unocss/unocss
 [Video Compressor]: https://apps.apple.com/hk/app/video-compressor/id482465886
-[voice-recog]: https://github.com/hoishing/voice-recog
 [voice-search-crx]: https://github.com/hoishing/multilingual-voice-search
 [x-logo]: https://api.iconify.design/ri:twitter-x-fill.svg?width=20&color=DarkGray
 [x-post]: https://x.com/hoishing
@@ -132,5 +137,3 @@ Here showcase my work and interests, along with their rationale and the logic be
 [ZERO]: https://apps.apple.com/hk/app/zero-tbs/id1399856976
 [同音字典]: https://apps.apple.com/hk/app/%E5%90%8C%E9%9F%B3%E5%AD%97%E5%85%B8/id956045098
 [英漢字典]: https://apps.apple.com/hk/app/%E8%8B%B1%E6%BC%A2%E5%AD%97%E5%85%B8-ec-dict/id371152394
-[gllm]: https://pypi.org/project/gllm-cli
-[gllm-git]: https://github.com/hoishing/gllm
