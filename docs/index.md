@@ -14,7 +14,6 @@ Here showcase my work and interests, along with their rationale and the logic be
 
 | app                        | description                                                             |             repo             |
 |:-------------------------- |:----------------------------------------------------------------------- |:----------------------------:|
-| [st-dialog-close-detector] | Automatically rerun Streamlit app when a dialog is closed               | [![git-logo]][st-dialog-git] |
 | [st-scweenwidth-detector]  | get current screen width and trigger app rerun when screen size changes | [![git-logo]][st-screen-git] |
 
 ## Mobile Apps
@@ -32,14 +31,13 @@ Here showcase my work and interests, along with their rationale and the logic be
 
 - well documented and tested python packages published in PyPi
 
-| package         | lang  | description                                                                                       |               repo               |
-|:--------------- |:-----:|:------------------------------------------------------------------------------------------------- |:--------------------------------:|
-| [natal]         | ![py] | create Natal Chart with ease                                                                      |     [![git-logo]][natal-git]     |
-| [ptag]          | ![py] | pythonic way to create HTML/XML/SVG tags                                                          |     [![git-logo]][ptag-git]      |
-| [gllm]          | ![py] | A CLI tool that uses [Groq] LLM to generate terminal commands from natural language descriptions. |     [![git-logo]][gllm-git]      |
-| [Pipable]       | ![py] | pipe operation in python                                                                          |    [![git-logo]][pipable-git]    |
-| [tagit]         | ![py] | HTML/SVG tag generator for minimalist                                                             |     [![git-logo]][tagit-git]     |
-| [icon-resize]   | ![py] | CLI to create lossless icons in multiple sizes                                                    |  [![git-logo]][icon-resize-git]  |
+| package       | lang  | description                                                                                       |              repo              |
+| :------------ | :---: | :------------------------------------------------------------------------------------------------ | :----------------------------: |
+| [natal]       | ![py] | create Natal Chart with ease                                                                      |    [![git-logo]][natal-git]    |
+| [ptag]        | ![py] | pythonic way to create HTML/XML/SVG tags                                                          |    [![git-logo]][ptag-git]     |
+| [gllm]        | ![py] | A CLI tool that uses [Groq] LLM to generate terminal commands from natural language descriptions. |    [![git-logo]][gllm-git]     |
+| [Pipable]     | ![py] | pipe operation in python                                                                          |   [![git-logo]][pipable-git]   |
+| [tagit]       | ![py] | HTML/SVG tag generator for minimalist                                                             |    [![git-logo]][tagit-git]    |
 
 ## NPM Packages
 
@@ -52,16 +50,7 @@ Here showcase my work and interests, along with their rationale and the logic be
 | extension                   | lang  | description                                                                   |                     repo                      |
 | :-------------------------- | :---: | :---------------------------------------------------------------------------- | :-------------------------------------------: |
 | [Mini Authenticator]        | ![ts] | minimal 2FA authenticator that never store your secret keys                   |           [![git-logo]][mini-auth]            |
-| [Change Background Color]   | ![js] | Change background color of the current site                                   | [![git-logo]][chrome-change-background-color] |
 | [Multilingual Voice Search] | ![js] | Google voice search in languages different from your OS and location settings |        [![git-logo]][voice-search-crx]        |
-
-## Utilities
-
-| app                       |            lang / run             | description                                                                                                   |
-|:------------------------- |:---------------------------------:|:------------------------------------------------------------------------------------------------------------- |
-| [Playwright Crawler]      | [![colab-logo]][playwright-colab] | web scrapping of Taiwan reservoir storage                                                                     |
-| [Raycast Scripts]         |              ![bash]              | utilities such as image convert/compress, open vscode from Finder ... etc. with bash, python and apple-script |
-| [Personalize CangJie IME] |    [![binder]][cangjie-ipynb]     | generate custom char set for 倉頡 IME in Windows                                                              |
 
 ## Legacy Projects
 
@@ -74,9 +63,6 @@ Here showcase my work and interests, along with their rationale and the logic be
 ## About
 
 [![linkedin-logo] LinkedIn][linkedin]
-
-[![x-logo] Posts][x-post]
-
 [![git-logo] Repos][github]
 
 [APN Tester]: https://apn-tester.streamlit.app
@@ -85,21 +71,13 @@ Here showcase my work and interests, along with their rationale and the logic be
 [astrobro-git]: https://github.com/hoishing/astrobro
 [AstroBro]: https://hoishing.github.io/astrobro
 [Atom Cell Navigation]: https://github.com/hoishing/cell-navigation
-[bash]: https://api.iconify.design/logos/bash-icon.svg?width=20
-[binder]: https://mybinder.org/badge_logo.svg
 [buddhism-objc]: https://github.com/hoishing/buddhism-objc
-[cangjie-ipynb]: https://mybinder.org/v2/gh/hoishing/cangjie/HEAD?labpath=create_code.ipynb
-[Change Background Color]: https://chrome.google.com/webstore/detail/change-background-color/ajlcblmihhjochfgehfcfiopkcbfnlfh
-[chrome-change-background-color]: https://github.com/hoishing/chrome-change-background-color
 [coffee-script]: https://api.iconify.design/cib/coffeescript.svg?color=%235999FF&width=20
-[colab-logo]: https://colab.research.google.com/assets/colab-badge.svg
 [GData iOS Static lib]: https://github.com/hoishing/GData-iOS-Static-Library-1.12
 [git-logo]: https://api.iconify.design/bi/github.svg?color=%236FD886&width=20
 [github]: https://github.com/hoishing
 [gllm-git]: https://github.com/hoishing/gllm
 [gllm]: https://pypi.org/project/gllm-cli
-[icon-resize-git]: https://github.com/hoishing/icon-resize
-[icon-resize]: https://pypi.org/project/icon-resize
 [js]: https://api.iconify.design/logos/javascript.svg?width=20
 [linkedin-logo]: https://api.iconify.design/devicon/linkedin.svg?width=20
 [linkedin]: https://www.linkedin.com/in/hoishing
@@ -108,19 +86,13 @@ Here showcase my work and interests, along with their rationale and the logic be
 [Multilingual Voice Search]: https://chrome.google.com/webstore/detail/multilingual-voice-search/ecfkiahgkikgihfhkmpggilephnaaidm
 [natal-git]: https://github.com/hoishing/natal
 [natal]: https://pypi.org/project/natal
-[Personalize CangJie IME]: https://github.com/hoishing/cangjie
 [pipable-git]: https://github.com/hoishing/pipable
 [pipable]: https://pypi.org/project/pipable
-[Playwright Crawler]: https://github.com/hoishing/playwright-crawler
-[playwright-colab]: https://colab.research.google.com/github/hoishing/playwright-crawler/blob/main/tw-reservoir.ipynb
 [ptag-git]: https://github.com/hoishing/ptag
 [ptag]: https://pypi.org/project/ptag
 [py]: https://api.iconify.design/logos/python.svg?width=20
-[Raycast Scripts]: https://github.com/hoishing/raycast-scripts
 [rm-drm-git]: https://github.com/hoishing/rm-drm
 [rm-drm]: https://rm-drm.streamlit.app
-[st-dialog-close-detector]: https://pypi.org/project/st-dialog-close-detector/
-[st-dialog-git]: https://github.com/hoishing/st-dialog-close-detector
 [st-screen-git]: https://github.com/hoishing/st-screenwidth-detector
 [st-scweenwidth-detector]: https://pypi.org/project/st-screenwidth-detector/
 [swift]: https://api.iconify.design/logos/swift.svg?width=20
@@ -131,8 +103,6 @@ Here showcase my work and interests, along with their rationale and the logic be
 [ts]: https://api.iconify.design/logos/typescript-icon.svg?width=20
 [Video Compressor]: https://apps.apple.com/hk/app/video-compressor/id482465886
 [voice-search-crx]: https://github.com/hoishing/multilingual-voice-search
-[x-logo]: https://api.iconify.design/ri:twitter-x-fill.svg?width=20&color=DarkGray
-[x-post]: https://x.com/hoishing
 [zero-game]: https://github.com/hoishing/zero-game
 [ZERO]: https://apps.apple.com/hk/app/zero-tbs/id1399856976
 [同音字典]: https://apps.apple.com/hk/app/%E5%90%8C%E9%9F%B3%E5%AD%97%E5%85%B8/id956045098

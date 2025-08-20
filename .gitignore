@@ -63,3 +63,4 @@ site/
 # tmp files
 try.*
 *.bak*
+.DS_Store
