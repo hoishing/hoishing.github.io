@@ -15,12 +15,18 @@ theme:
   favicon: assets/favicon.png
   logo: assets/rocket-launch.svg
   palette:
+    # Palette toggle for automatic mode
+    - media: "(prefers-color-scheme)"
+      toggle:
+        icon: material/theme-light-dark
+        name: Switch to dark mode
+    
     # Palette toggle for dark mode
     - media: "(prefers-color-scheme: dark)"
       primary: light blue
       scheme: slate
       toggle:
-        icon: material/toggle-switch-off-outline
+        icon: material/weather-night
         name: Switch to light mode
 
     # Palette toggle for light mode
@@ -28,15 +34,9 @@ theme:
       primary: light blue
       scheme: default
       toggle:
-        icon: material/toggle-switch
+        icon: material/weather-sunny
         name: Switch to system preference
-        
-    # Palette toggle for automatic mode
-    - media: "(prefers-color-scheme)"
-      toggle:
-        icon: material/link
-        name: Switch to dark mode
-        
+
   features:
     - navigation.instant
     - toc.integrate
