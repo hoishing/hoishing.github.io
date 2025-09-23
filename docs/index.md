@@ -54,7 +54,6 @@ Python packages published in PyPi
 
 | package       | lang  | description                                                                                       |              repo              |
 | :------------ | :---: | :------------------------------------------------------------------------------------------------ | :----------------------------: |
-| [natal]       | ![py] | create Natal Chart with ease                                                                      |    [![git-logo]][natal-git]    |
 | [ptag]        | ![py] | pythonic way to create HTML/XML/SVG tags                                                          |    [![git-logo]][ptag-git]     |
 | [gllm]        | ![py] | Generate Terminal Commands from Natural Language with Gemini |    [![git-logo]][gllm-git]     |
 | [Pipable]     | ![py] | pipe operation in python                                                                          |   [![git-logo]][pipable-git]   |
@@ -111,8 +110,6 @@ Python packages published in PyPi
 [Mini Authenticator]: https://chrome.google.com/webstore/detail/mini-authenticator/nmhjblhloefhbhgbfkdgdpjabaocnhha
 [mini-auth]: https://github.com/hoishing/mini-authenticator
 [Multilingual Voice Search]: https://chrome.google.com/webstore/detail/multilingual-voice-search/ecfkiahgkikgihfhkmpggilephnaaidm
-[natal-git]: https://github.com/hoishing/natal
-[natal]: https://pypi.org/project/natal
 [pipable-git]: https://github.com/hoishing/pipable
 [pipable]: https://pypi.org/project/pipable
 [ptag-git]: https://github.com/hoishing/ptag
