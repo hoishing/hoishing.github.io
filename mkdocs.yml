@@ -1,0 +1,81 @@
+site_name: Kelvin's Profile
+
+site_url: https://hoishing.github.io
+repo_url: https://github.com/hoishing
+extra_css:
+  - stylesheets/extra.css
+
+theme:
+  name: "material"
+  custom_dir: overrides
+  font:
+    text: Varela Round
+  icon:
+    repo: fontawesome/brands/github
+  favicon: assets/favicon.png
+  logo: assets/rocket-launch.svg
+  palette:
+    # Palette toggle for automatic mode
+    - media: "(prefers-color-scheme)"
+      toggle:
+        icon: material/theme-light-dark
+        name: Switch to dark mode
+    
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      primary: light blue
+      scheme: slate
+      toggle:
+        icon: material/weather-night
+        name: Switch to light mode
+
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      primary: light blue
+      scheme: default
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to system preference
+
+  features:
+    - navigation.instant
+    - toc.integrate
+    # - navigation.footer
+    # - navigation.tracking
+    # - navigation.expand
+
+extra:
+  social:
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/hoishing
+    - icon: fontawesome/brands/x-twitter
+      link: https://x.com/hoishing
+    - icon: fontawesome/brands/github
+      link: https://github.com/hoishing
+    - icon: fontawesome/brands/dev
+      link: https://dev.to/hoishing
+
+plugins:
+  - social
+  - search:
+      lang: en
+  - mkdocstrings:
+      handlers:
+        python:
+          options:
+            show_root_heading: true
+            show_signature_annotations: true
+
+markdown_extensions:
+  - attr_list
+  - md_in_html
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.superfences
+  - pymdownx.snippets
+  - toc:
+      toc_depth: 3
+
+nav:
+  - index.md
