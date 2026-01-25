@@ -1,0 +1,30 @@
+.md-search__form {
+    border-radius: 20px;
+}
+
+header {
+    padding: 0.2rem 0;
+}
+
+.md-typeset h1 {
+    color: var(--md-typeset-color);
+    font-size: 1.8em;
+}
+
+label.md-nav__title {
+    display: none;
+}
+
+.md-grid {
+    max-width: 1000px;
+}
+
+.md-typeset table:not([class]) {
+    font-size: 0.72rem;
+}
+
+img[src*="api.iconify.design"] {
+    vertical-align: -0.2rem;
+    margin-left: 0.3rem;
+    margin-right: 0.3rem;
+}
