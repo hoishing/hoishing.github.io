@@ -2,33 +2,34 @@
 
 **Languages**
 
-<picture><source srcset="https://img.shields.io/badge/-Python-333?logo=Python" media="(prefers-color-scheme: dark)"><img src="https://img.shields.io/badge/-Python-e6e6e6?logo=Python" alt="Python"></picture>
-<picture><source srcset="https://img.shields.io/badge/-JavaScript-333?logo=JavaScript" media="(prefers-color-scheme: dark)"><img src="https://img.shields.io/badge/-JavaScript-e6e6e6?logo=JavaScript" alt="JavaScript"></picture>
-<picture><source srcset="https://img.shields.io/badge/-TypeScript-333?logo=TypeScript" media="(prefers-color-scheme: dark)"><img src="https://img.shields.io/badge/-TypeScript-e6e6e6?logo=TypeScript" alt="TypeScript"></picture>
-<picture><source srcset="https://img.shields.io/badge/-SQL-333?logo=PostgreSQL" media="(prefers-color-scheme: dark)"><img src="https://img.shields.io/badge/-SQL-e6e6e6?logo=PostgreSQL" alt="SQL"></picture>
-<picture><source srcset="https://img.shields.io/badge/-Swift-333?logo=Swift" media="(prefers-color-scheme: dark)"><img src="https://img.shields.io/badge/-Swift-e6e6e6?logo=Swift" alt="Swift"></picture>
-<picture><source srcset="https://img.shields.io/badge/-Kotlin-333?logo=Kotlin" media="(prefers-color-scheme: dark)"><img src="https://img.shields.io/badge/-Kotlin-e6e6e6?logo=Kotlin" alt="Kotlin"></picture>
-<picture><source srcset="https://img.shields.io/badge/-Bash-333?logo=GNU-Bash" media="(prefers-color-scheme: dark)"><img src="https://img.shields.io/badge/-Bash-e6e6e6?logo=GNU-Bash" alt="Bash"></picture>
+<picture><source srcset="https://img.shields.io/badge/-Python-333?logo=Python" media="(prefers-color-scheme: dark)"><img src="https://img.shields.io/badge/-Python-f0f0f0?logo=Python" alt="Python"></picture>
+<picture><source srcset="https://img.shields.io/badge/-JavaScript-333?logo=JavaScript" media="(prefers-color-scheme: dark)"><img src="https://img.shields.io/badge/-JavaScript-f0f0f0?logo=JavaScript" alt="JavaScript"></picture>
+<picture><source srcset="https://img.shields.io/badge/-TypeScript-333?logo=TypeScript" media="(prefers-color-scheme: dark)"><img src="https://img.shields.io/badge/-TypeScript-f0f0f0?logo=TypeScript" alt="TypeScript"></picture>
+<picture><source srcset="https://img.shields.io/badge/-SQL-333?logo=PostgreSQL" media="(prefers-color-scheme: dark)"><img src="https://img.shields.io/badge/-SQL-f0f0f0?logo=PostgreSQL" alt="SQL"></picture>
+<picture><source srcset="https://img.shields.io/badge/-Swift-333?logo=Swift" media="(prefers-color-scheme: dark)"><img src="https://img.shields.io/badge/-Swift-f0f0f0?logo=Swift" alt="Swift"></picture>
+<picture><source srcset="https://img.shields.io/badge/-Kotlin-333?logo=Kotlin" media="(prefers-color-scheme: dark)"><img src="https://img.shields.io/badge/-Kotlin-f0f0f0?logo=Kotlin" alt="Kotlin"></picture>
+<picture><source srcset="https://img.shields.io/badge/-Bash-333?logo=GNU-Bash" media="(prefers-color-scheme: dark)"><img src="https://img.shields.io/badge/-Bash-f0f0f0?logo=GNU-Bash" alt="Bash"></picture>
 
 **Favorite Techs**
 
-<picture><source srcset="https://img.shields.io/badge/-Streamlit-333?logo=Streamlit" media="(prefers-color-scheme: dark)"><img src="https://img.shields.io/badge/-Streamlit-e6e6e6?logo=Streamlit" alt="Streamlit"></picture>
-<picture><source srcset="https://img.shields.io/badge/-uv-333?logo=uv" media="(prefers-color-scheme: dark)"><img src="https://img.shields.io/badge/-uv-e6e6e6?logo=uv" alt="uv"></picture>
-<picture><source srcset="https://img.shields.io/badge/-Git-333?logo=Git" media="(prefers-color-scheme: dark)"><img src="https://img.shields.io/badge/-Git-e6e6e6?logo=Git" alt="Git"></picture>
-<picture><source srcset="https://img.shields.io/badge/-Docker-333?logo=Docker" media="(prefers-color-scheme: dark)"><img src="https://img.shields.io/badge/-Docker-e6e6e6?logo=Docker" alt="Docker"></picture>
-<picture><source srcset="https://img.shields.io/badge/-macOS-333?logo=apple" media="(prefers-color-scheme: dark)"><img src="https://img.shields.io/badge/-macOS-e6e6e6?logo=apple" alt="macOS"></picture>
-<picture><source srcset="https://img.shields.io/badge/-Linux-333?logo=Linux" media="(prefers-color-scheme: dark)"><img src="https://img.shields.io/badge/-Linux-e6e6e6?logo=Linux" alt="Linux"></picture>
-<picture><source srcset="https://img.shields.io/badge/-Cloudflare-333?logo=Cloudflare" media="(prefers-color-scheme: dark)"><img src="https://img.shields.io/badge/-Cloudflare-e6e6e6?logo=Cloudflare" alt="Cloudflare"></picture>
-<picture><source srcset="https://img.shields.io/badge/-GitHub-333?logo=GitHub" media="(prefers-color-scheme: dark)"><img src="https://img.shields.io/badge/-GitHub-e6e6e6?logo=GitHub" alt="GitHub"></picture>
+<picture><source srcset="https://img.shields.io/badge/-Streamlit-333?logo=Streamlit" media="(prefers-color-scheme: dark)"><img src="https://img.shields.io/badge/-Streamlit-f0f0f0?logo=Streamlit" alt="Streamlit"></picture>
+<picture><source srcset="https://img.shields.io/badge/-uv-333?logo=uv" media="(prefers-color-scheme: dark)"><img src="https://img.shields.io/badge/-uv-f0f0f0?logo=uv" alt="uv"></picture>
+<picture><source srcset="https://img.shields.io/badge/-Git-333?logo=Git" media="(prefers-color-scheme: dark)"><img src="https://img.shields.io/badge/-Git-f0f0f0?logo=Git" alt="Git"></picture>
+<picture><source srcset="https://img.shields.io/badge/-Docker-333?logo=Docker" media="(prefers-color-scheme: dark)"><img src="https://img.shields.io/badge/-Docker-f0f0f0?logo=Docker" alt="Docker"></picture>
 <picture><source srcset="https://img.shields.io/badge/-opencode-333?logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0nMTEuMjVweCcgaGVpZ2h0PScxNHB4JyB2aWV3Qm94PScwIDAgMjQwIDMwMCcgZmlsbD0nbm9uZScgeG1sbnM9J2h0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnJz4KICA8ZyBjbGlwLXBhdGg9J3VybCgjY2xpcDBfMTQwMV84NjI4MyknPgogICAgPG1hc2sgaWQ9J21hc2swXzE0MDFfODYyODMnIHN0eWxlPSdtYXNrLXR5cGU6bHVtaW5hbmNlJyBtYXNrVW5pdHM9J3VzZXJTcGFjZU9uVXNlJyB4PScwJyB5PScwJyB3aWR0aD0nMjQwJwogICAgICBoZWlnaHQ9JzMwMCc+CiAgICAgIDxwYXRoIGQ9J00yNDAgMEgwVjMwMEgyNDBWMFonIGZpbGw9J3doaXRlJyAvPgogICAgPC9tYXNrPgogICAgPGcgbWFzaz0ndXJsKCNtYXNrMF8xNDAxXzg2MjgzKSc+CiAgICAgIDxwYXRoIGQ9J00xODAgMjQwSDYwVjEyMEgxODBWMjQwWicgZmlsbD0nIzRCNDY0NicgLz4KICAgICAgPHBhdGggZD0nTTE4MCA2MEg2MFYyNDBIMTgwVjYwWk0yNDAgMzAwSDBWMEgyNDBWMzAwWicgZmlsbD0nI0YxRUNFQycgLz4KICAgIDwvZz4KICA8L2c+CiAgPGRlZnM+CiAgICA8Y2xpcFBhdGggaWQ9J2NsaXAwXzE0MDFfODYyODMnPgogICAgICA8cmVjdCB3aWR0aD0nMjQwJyBoZWlnaHQ9JzMwMCcgZmlsbD0nd2hpdGUnIC8+CiAgICA8L2NsaXBQYXRoPgogIDwvZGVmcz4KPC9zdmc+" media="(prefers-color-scheme: dark)"><img src="https://img.shields.io/badge/-opencode-e6e6e6?logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0nMTEuMjVweCcgaGVpZ2h0PScxNHB4JyB2aWV3Qm94PScwIDAgMjQwIDMwMCcgZmlsbD0nbm9uZScKICB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnPgogIDxnIGNsaXAtcGF0aD0ndXJsKCNjbGlwMF8xNDAxXzg2Mjc0KSc+CiAgICA8bWFzayBpZD0nbWFzazBfMTQwMV84NjI3NCcgc3R5bGU9J21hc2stdHlwZTpsdW1pbmFuY2UnIG1hc2tVbml0cz0ndXNlclNwYWNlT25Vc2UnIHg9JzAnIHk9JzAnCiAgICAgIHdpZHRoPScyNDAnIGhlaWdodD0nMzAwJz4KICAgICAgPHBhdGggZD0nTTI0MCAwSDBWMzAwSDI0MFYwWicgZmlsbD0nd2hpdGUnIC8+CiAgICA8L21hc2s+CiAgICA8ZyBtYXNrPSd1cmwoI21hc2swXzE0MDFfODYyNzQpJz4KICAgICAgPHBhdGggZD0nTTE4MCAyNDBINjBWMTIwSDE4MFYyNDBaJyBmaWxsPScjQ0ZDRUNEJyAvPgogICAgICA8cGF0aCBkPSdNMTgwIDYwSDYwVjI0MEgxODBWNjBaTTI0MCAzMDBIMFYwSDI0MFYzMDBaJyBmaWxsPScjMjExRTFFJyAvPgogICAgPC9nPgogIDwvZz4KICA8ZGVmcz4KICAgIDxjbGlwUGF0aCBpZD0nY2xpcDBfMTQwMV84NjI3NCc+CiAgICAgIDxyZWN0IHdpZHRoPScyNDAnIGhlaWdodD0nMzAwJyBmaWxsPSd3aGl0ZScgLz4KICAgIDwvY2xpcFBhdGg+CiAgPC9kZWZzPgo8L3N2Zz4=" alt="opencode"></picture>
-<picture><source srcset="https://img.shields.io/badge/-Gemini-333?logo=googleGemini" media="(prefers-color-scheme: dark)"><img src="https://img.shields.io/badge/-Gemini-e6e6e6?logo=googleGemini" alt="Gemini Code"></picture>
+<picture><source srcset="https://img.shields.io/badge/-Astro-333?logo=Astro" media="(prefers-color-scheme: dark)"><img src="https://img.shields.io/badge/-Astro-f0f0f0?logo=Astro" alt="Astro"></picture>
+<picture><source srcset="https://img.shields.io/badge/-Cloudflare-333?logo=Cloudflare" media="(prefers-color-scheme: dark)"><img src="https://img.shields.io/badge/-Cloudflare-f0f0f0?logo=Cloudflare" alt="Cloudflare"></picture>
+<picture><source srcset="https://img.shields.io/badge/-GitHub-333?logo=GitHub" media="(prefers-color-scheme: dark)"><img src="https://img.shields.io/badge/-GitHub-f0f0f0?logo=GitHub" alt="GitHub"></picture>
+<picture><source srcset="https://img.shields.io/badge/-Linux-333?logo=Linux" media="(prefers-color-scheme: dark)"><img src="https://img.shields.io/badge/-Linux-f0f0f0?logo=Linux" alt="Linux"></picture>
+<picture><source srcset="https://img.shields.io/badge/-macOS-333?logo=apple" media="(prefers-color-scheme: dark)"><img src="https://img.shields.io/badge/-macOS-f0f0f0?logo=apple" alt="macOS"></picture>
 
 ## Streamlit Apps
 
-| app           | description                                          |              repo               |                demo                 |
-| :------------ | :--------------------------------------------------- | :-----------------------------: | :---------------------------------: |
-| [handy-utils] | Utilities Collection For Daily Life Hacks            | [![git-logo]][handy-utils-repo] | [![youtube-logo]][handy-utils-demo] |
-| [aiyt]        | Transcribe, Chat and Summarize Youtube Video with AI |     [![git-logo]][aiyt-git]     |    [![youtube-logo]][aiyt-demo]     |
+| app          | description                                           |            repo             | demo |
+|:------------ |:----------------------------------------------------- |:---------------------------:| :---: |
+| [AstroMate]   | Full-featured PWA for Astrological Chart and Stats    | [![git-logo]][astromate-git] | [![youtube-logo]][astromate-demo] |
+| [handy-utils]| Utilities Collection For Daily Life Hacks             |  [![git-logo]][handy-utils-repo]  | [![youtube-logo]][handy-utils-demo] |
+| [aiyt]       | Transcribe, Chat and Summarize Youtube Video with AI  |  [![git-logo]][aiyt-git]  | [![youtube-logo]][aiyt-demo] |
 
 ## Mobile Apps
 
@@ -53,6 +54,7 @@ Python packages published in PyPi
 
 | package       | lang  | description                                                                                       |              repo              |
 | :------------ | :---: | :------------------------------------------------------------------------------------------------ | :----------------------------: |
+| [natal]       | ![py] | create Natal Chart with ease                                                                      |    [![git-logo]][natal-git]    |
 | [ptag]        | ![py] | pythonic way to create HTML/XML/SVG tags                                                          |    [![git-logo]][ptag-git]     |
 | [gllm]        | ![py] | Generate Terminal Commands from Natural Language with Gemini |    [![git-logo]][gllm-git]     |
 | [Pipable]     | ![py] | pipe operation in python                                                                          |   [![git-logo]][pipable-git]   |
@@ -89,6 +91,9 @@ Python packages published in PyPi
 [aiyt]: https://pypi.org/project/aiyt/
 [aiyt-demo]: https://www.youtube.com/watch?v=RMkSsaQzM64
 [App Store]: https://apps.apple.com/hk/developer/fbm/id371152397
+[astromate-git]: https://github.com/hoishing/astromate-app
+[AstroMate]: https://astromate.cc/app
+[astromate-demo]: https://youtu.be/-4BKoaX_JAw
 [Atom Cell Navigation]: https://github.com/hoishing/cell-navigation
 [buddhism-objc]: https://github.com/hoishing/buddhism-objc
 [coffee-script]: https://api.iconify.design/cib/coffeescript.svg?color=%235999FF&width=20
@@ -106,6 +111,8 @@ Python packages published in PyPi
 [Mini Authenticator]: https://chrome.google.com/webstore/detail/mini-authenticator/nmhjblhloefhbhgbfkdgdpjabaocnhha
 [mini-auth]: https://github.com/hoishing/mini-authenticator
 [Multilingual Voice Search]: https://chrome.google.com/webstore/detail/multilingual-voice-search/ecfkiahgkikgihfhkmpggilephnaaidm
+[natal-git]: https://github.com/hoishing/natal
+[natal]: https://pypi.org/project/natal
 [pipable-git]: https://github.com/hoishing/pipable
 [pipable]: https://pypi.org/project/pipable
 [ptag-git]: https://github.com/hoishing/ptag
